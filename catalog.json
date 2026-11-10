@@ -338,6 +338,75 @@
     "added_ts": 1794328082
   },
   {
+    "id": "game-12120",
+    "appid": 12120,
+    "name": "Grand Theft Auto: San Andreas",
+    "developer": "Rockstar Games",
+    "publisher": "Rockstar Games",
+    "installdir": "Grand Theft Auto San Andreas",
+    "launch_exes": [
+      "gta-sa.exe"
+    ],
+    "launch_exe": "gta-sa.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "459558",
+    "has_metadata": true,
+    "depot_base": 12121,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/12120/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/12120/header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "459558",
+        "branch": "public",
+        "label": "Public - Build 459558 (12/02/2014)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "12121",
+          "12122",
+          "12123",
+          "12124",
+          "228990"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1794329065
+  },
+  {
     "id": "game-4032350",
     "appid": 4032350,
     "name": "EA SPORTS™ College Football 27",
