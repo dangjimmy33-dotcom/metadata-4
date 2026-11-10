@@ -407,6 +407,75 @@
     "added_ts": 1794329065
   },
   {
+    "id": "game-1962700",
+    "appid": 1962700,
+    "name": "Subnautica 2",
+    "developer": "Unknown Worlds Entertainment",
+    "publisher": "Unknown Worlds Entertainment",
+    "installdir": "Subnautica2",
+    "launch_exes": [
+      "Subnautica2.exe"
+    ],
+    "launch_exe": "Subnautica2.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "25400633",
+    "has_metadata": true,
+    "depot_base": 1962701,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1962700/bd66bf4a6db518e15573284aa4030d1f9e1f364d/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1962700/d32292eca11fbbb96e80e21d8a34136ad521f7bc/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)",
+      "Windows (32-bit)"
+    ],
+    "versions": [
+      {
+        "id": "25400633",
+        "branch": "public Subnautica 2 Early Access Buddy System Hotfix 2",
+        "label": "public Subnautica 2 Early Access Buddy System Hotfix 2 - Build 25400633 (09/19/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228988",
+          "228989",
+          "228990",
+          "1962701"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1794329609
+  },
+  {
     "id": "game-4032350",
     "appid": 4032350,
     "name": "EA SPORTS™ College Football 27",
