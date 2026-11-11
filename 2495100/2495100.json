@@ -13,6 +13,19 @@
           "download": 4629458656
         }
       }
+    },
+    {
+      "buildId": "25097414",
+      "branch": "public Fall Fashion Frenzy has arrived",
+      "timeUpdated": 1788423494,
+      "firstSeen": 1794374404,
+      "manifests": {
+        "2495101": {
+          "gid": "4442317965708341831",
+          "size": 4990433922,
+          "download": 4200118256
+        }
+      }
     }
   ],
   "_change_number": 40820461,
