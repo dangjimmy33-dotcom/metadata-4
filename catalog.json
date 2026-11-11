@@ -613,6 +613,71 @@
     "added_ts": 1794329609
   },
   {
+    "id": "game-2456350",
+    "appid": 2456350,
+    "name": "The Scourge | Tai Ương",
+    "developer": "Rare Reversee",
+    "publisher": "Rare Reversee (Global)",
+    "installdir": "The-Scourge",
+    "launch_exes": [
+      "TheScourge.exe"
+    ],
+    "launch_exe": "TheScourge.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "23484837",
+    "has_metadata": true,
+    "depot_base": 2456351,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2456350/33350e85e8855415807ecfbdb536584ed7210a1e/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2456350/cf888e9334ff9dd51d29a5f4a38e2fea8b97e247/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "23484837",
+        "branch": "public v1.0.4",
+        "label": "public v1.0.4 - Build 23484837 (05/30/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "2456351"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1794398477
+  },
+  {
     "id": "game-2495100",
     "appid": 2495100,
     "name": "Hello Kitty Island Adventure",
