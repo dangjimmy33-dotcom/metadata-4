@@ -1534,5 +1534,74 @@
     ],
     "json_rev": 1,
     "added_ts": 1794371851
+  },
+  {
+    "id": "game-648350",
+    "appid": 648350,
+    "name": "Jurassic World Evolution",
+    "developer": "Frontier Developments",
+    "publisher": "Frontier Developments",
+    "installdir": "Jurassic World Evolution",
+    "launch_exes": [
+      "JWE.exe",
+      "Nero.Win64.profile.exe",
+      "Nero.Win64.release.exe"
+    ],
+    "launch_exe": "JWE.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "4697449",
+    "has_metadata": true,
+    "depot_base": 648351,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/648350/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/648350/header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "4697449",
+        "branch": "public",
+        "label": "Public - Build 4697449 (02/21/2020)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228986",
+          "228990",
+          "648351"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1794419197
   }
 ]
