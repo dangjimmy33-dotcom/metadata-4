@@ -477,6 +477,73 @@
     "added_ts": 1794329065
   },
   {
+    "id": "game-1903340",
+    "appid": 1903340,
+    "name": "Clair Obscur: Expedition 33",
+    "developer": "Sandfall Interactive",
+    "publisher": "Kepler Interactive",
+    "installdir": "Expedition 33",
+    "launch_exes": [
+      "Expedition33_Steam.exe"
+    ],
+    "launch_exe": "Expedition33_Steam.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "23765773",
+    "has_metadata": true,
+    "depot_base": 1903341,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1903340/8b21381a43ac5a535a838f723815f8fe14ceaf7c/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1903340/be3305b02d4db0dffa3458537118423bf2792d7e/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "23765773",
+        "branch": "public Patch v1.5.6 is now live!",
+        "label": "public Patch v1.5.6 is now live! - Build 23765773 (06/16/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228989",
+          "228990",
+          "1903341"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1794373036
+  },
+  {
     "id": "game-1962700",
     "appid": 1962700,
     "name": "Subnautica 2",
