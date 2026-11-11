@@ -1,5 +1,75 @@
 [
   {
+    "id": "game-1038250",
+    "appid": 1038250,
+    "name": "DIRT 5",
+    "developer": "Codemasters",
+    "publisher": "Codemasters",
+    "installdir": "DIRT 5",
+    "launch_exes": [
+      "DIRT5.exe",
+      "game_dev.exe",
+      "game_release.exe"
+    ],
+    "launch_exe": "DIRT5.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "8650081",
+    "has_metadata": true,
+    "depot_base": 1038251,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1038250/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1038250/header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "8650081",
+        "branch": "public",
+        "label": "Public - Build 8650081 (04/29/2022)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228988",
+          "1038251",
+          "1038252",
+          "1038254"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1794367071
+  },
+  {
     "id": "game-1172380",
     "appid": 1172380,
     "name": "STAR WARS Jedi: Fallen Order™ ",
