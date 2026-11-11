@@ -613,6 +613,103 @@
     "added_ts": 1794329609
   },
   {
+    "id": "game-214490",
+    "appid": 214490,
+    "name": "Alien: Isolation",
+    "developer": "Creative Assembly",
+    "publisher": "SEGA",
+    "installdir": "Alien Isolation",
+    "launch_exes": [
+      "AI.exe",
+      "Alien Isolation.app",
+      "AlienIsolation.sh"
+    ],
+    "launch_exe": "AI.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "4940658",
+    "has_metadata": true,
+    "depot_base": 214491,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/214490/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/214490/header.jpg",
+    "platforms": [
+      "Windows (64-bit)",
+      "Windows (32-bit)"
+    ],
+    "versions": [
+      {
+        "id": "4940658",
+        "branch": "public",
+        "label": "Public - Build 4940658 (04/24/2020)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "214491",
+          "214493",
+          "214494",
+          "214495",
+          "214496",
+          "214497",
+          "214498",
+          "214499",
+          "214500",
+          "214501",
+          "214502",
+          "214503",
+          "214504",
+          "214505",
+          "214506",
+          "214507",
+          "214508",
+          "214509",
+          "228983",
+          "228990",
+          "282510",
+          "282511",
+          "282512",
+          "282513",
+          "282514",
+          "282515",
+          "282516",
+          "282517",
+          "324027",
+          "324028"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1794416901
+  },
+  {
     "id": "game-2456350",
     "appid": 2456350,
     "name": "The Scourge | Tai Ương",
