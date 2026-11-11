@@ -860,6 +860,100 @@
     "added_ts": 1794374252
   },
   {
+    "id": "game-3472040",
+    "appid": 3472040,
+    "name": "NBA 2K26",
+    "developer": "Visual Concepts",
+    "publisher": "2K",
+    "installdir": "NBA 2K26",
+    "launch_exes": [
+      "start_protected_game.exe",
+      "NBA2K26.exe"
+    ],
+    "launch_exe": "start_protected_game.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "24237529",
+    "has_metadata": true,
+    "depot_base": 3472041,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3472040/bebd889b3d90330de84453f42c4dfd525a9ea06f/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3472040/f7e126add75c3b09779b44cd349be93d31b0a80b/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "24237529",
+        "branch": "public",
+        "label": "Public - Build 24237529 (07/16/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228988",
+          "228990",
+          "3472041",
+          "3472042",
+          "3472043"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      },
+      {
+        "id": "23933228",
+        "branch": "public",
+        "label": "Public - Build 23933228 (06/23/2026)",
+        "is_ready": true,
+        "is_recommended": false,
+        "manifest_depots": [
+          "228988",
+          "228990",
+          "3472041",
+          "3472042",
+          "3472043"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1794418486
+  },
+  {
     "id": "game-4032350",
     "appid": 4032350,
     "name": "EA SPORTS™ College Football 27",
