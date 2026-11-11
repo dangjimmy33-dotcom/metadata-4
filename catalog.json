@@ -1560,8 +1560,8 @@
     "versions": [
       {
         "id": "4697449",
-        "branch": "public",
-        "label": "Public - Build 4697449 (02/21/2020)",
+        "branch": "public Jurassic World Evolution - Update 1.12.4",
+        "label": "public Jurassic World Evolution - Update 1.12.4 - Build 4697449 (02/21/2020)",
         "is_ready": true,
         "is_recommended": true,
         "manifest_depots": [
