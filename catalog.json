@@ -70,6 +70,300 @@
     "added_ts": 1794367071
   },
   {
+    "id": "game-108710",
+    "appid": 108710,
+    "name": "Alan Wake",
+    "developer": "Remedy Entertainment",
+    "publisher": "Remedy Entertainment",
+    "installdir": "Alan Wake",
+    "launch_exes": [
+      "./AlanWake.exe",
+      "AlanWake.exe"
+    ],
+    "launch_exe": "./AlanWake.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "14596864",
+    "has_metadata": true,
+    "depot_base": 108711,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/108710/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/108710/9c1728f937c2a7e632b447b02e442f6a5d88515c/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)",
+      "Windows (32-bit)"
+    ],
+    "versions": [
+      {
+        "id": "14596864",
+        "branch": "public Update Notes",
+        "label": "public Update Notes - Build 14596864 (06/04/2024)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "108711",
+          "108712",
+          "108714",
+          "108715",
+          "108716",
+          "108717",
+          "108718",
+          "108719",
+          "108720",
+          "108721",
+          "108722",
+          "108723",
+          "108724",
+          "108725",
+          "108726",
+          "108727",
+          "108728",
+          "268560"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          },
+          {
+            "id": 108714,
+            "key": "lang:german",
+            "lang": "german",
+            "label": "Deutsch (German)",
+            "source": "depot"
+          },
+          {
+            "id": 108715,
+            "key": "lang:tchinese",
+            "lang": "tchinese",
+            "label": "繁體中文 (Traditional Chinese)",
+            "source": "depot"
+          },
+          {
+            "id": 108716,
+            "key": "lang:spanish",
+            "lang": "spanish",
+            "label": "Español (Spanish)",
+            "source": "depot"
+          },
+          {
+            "id": 108717,
+            "key": "lang:french",
+            "lang": "french",
+            "label": "Français (French)",
+            "source": "depot"
+          },
+          {
+            "id": 108718,
+            "key": "lang:italian",
+            "lang": "italian",
+            "label": "Italiano (Italian)",
+            "source": "depot"
+          },
+          {
+            "id": 108719,
+            "key": "lang:japanese",
+            "lang": "japanese",
+            "label": "日本語 (Japanese)",
+            "source": "depot"
+          },
+          {
+            "id": 108720,
+            "key": "lang:koreana",
+            "lang": "koreana",
+            "label": "한국어 (Korean)",
+            "source": "depot"
+          },
+          {
+            "id": 108721,
+            "key": "lang:polish",
+            "lang": "polish",
+            "label": "Polski (Polish)",
+            "source": "depot"
+          },
+          {
+            "id": 108722,
+            "key": "lang:russian",
+            "lang": "russian",
+            "label": "Русский (Russian)",
+            "source": "depot"
+          },
+          {
+            "id": 108728,
+            "key": "lang:czech",
+            "lang": "czech",
+            "label": "Čeština (Czech)",
+            "source": "depot"
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      },
+      {
+        "id": 108714,
+        "key": "lang:german",
+        "lang": "german",
+        "label": "Deutsch (German)",
+        "source": "depot"
+      },
+      {
+        "id": 108715,
+        "key": "lang:tchinese",
+        "lang": "tchinese",
+        "label": "繁體中文 (Traditional Chinese)",
+        "source": "depot"
+      },
+      {
+        "id": 108716,
+        "key": "lang:spanish",
+        "lang": "spanish",
+        "label": "Español (Spanish)",
+        "source": "depot"
+      },
+      {
+        "id": 108717,
+        "key": "lang:french",
+        "lang": "french",
+        "label": "Français (French)",
+        "source": "depot"
+      },
+      {
+        "id": 108718,
+        "key": "lang:italian",
+        "lang": "italian",
+        "label": "Italiano (Italian)",
+        "source": "depot"
+      },
+      {
+        "id": 108719,
+        "key": "lang:japanese",
+        "lang": "japanese",
+        "label": "日本語 (Japanese)",
+        "source": "depot"
+      },
+      {
+        "id": 108720,
+        "key": "lang:koreana",
+        "lang": "koreana",
+        "label": "한국어 (Korean)",
+        "source": "depot"
+      },
+      {
+        "id": 108721,
+        "key": "lang:polish",
+        "lang": "polish",
+        "label": "Polski (Polish)",
+        "source": "depot"
+      },
+      {
+        "id": 108722,
+        "key": "lang:russian",
+        "lang": "russian",
+        "label": "Русский (Russian)",
+        "source": "depot"
+      },
+      {
+        "id": 108728,
+        "key": "lang:czech",
+        "lang": "czech",
+        "label": "Čeština (Czech)",
+        "source": "depot"
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      },
+      {
+        "id": 108714,
+        "key": "lang:german",
+        "lang": "german",
+        "label": "Deutsch (German)",
+        "source": "depot"
+      },
+      {
+        "id": 108715,
+        "key": "lang:tchinese",
+        "lang": "tchinese",
+        "label": "繁體中文 (Traditional Chinese)",
+        "source": "depot"
+      },
+      {
+        "id": 108716,
+        "key": "lang:spanish",
+        "lang": "spanish",
+        "label": "Español (Spanish)",
+        "source": "depot"
+      },
+      {
+        "id": 108717,
+        "key": "lang:french",
+        "lang": "french",
+        "label": "Français (French)",
+        "source": "depot"
+      },
+      {
+        "id": 108718,
+        "key": "lang:italian",
+        "lang": "italian",
+        "label": "Italiano (Italian)",
+        "source": "depot"
+      },
+      {
+        "id": 108719,
+        "key": "lang:japanese",
+        "lang": "japanese",
+        "label": "日本語 (Japanese)",
+        "source": "depot"
+      },
+      {
+        "id": 108720,
+        "key": "lang:koreana",
+        "lang": "koreana",
+        "label": "한국어 (Korean)",
+        "source": "depot"
+      },
+      {
+        "id": 108721,
+        "key": "lang:polish",
+        "lang": "polish",
+        "label": "Polski (Polish)",
+        "source": "depot"
+      },
+      {
+        "id": 108722,
+        "key": "lang:russian",
+        "lang": "russian",
+        "label": "Русский (Russian)",
+        "source": "depot"
+      },
+      {
+        "id": 108728,
+        "key": "lang:czech",
+        "lang": "czech",
+        "label": "Čeština (Czech)",
+        "source": "depot"
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1794471256
+  },
+  {
     "id": "game-1172380",
     "appid": 1172380,
     "name": "STAR WARS Jedi: Fallen Order™ ",
