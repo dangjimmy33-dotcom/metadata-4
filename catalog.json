@@ -907,6 +907,162 @@
     "added_ts": 1794329609
   },
   {
+    "id": "game-201870",
+    "appid": 201870,
+    "name": "Assassin's Creed Revelations",
+    "developer": "Ubisoft Montreal",
+    "publisher": "Ubisoft",
+    "installdir": "Assassin's Creed Revelations",
+    "launch_exes": [
+      "ACRSP.exe",
+      "ACRMP.exe"
+    ],
+    "launch_exe": "ACRSP.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "13183194",
+    "has_metadata": true,
+    "depot_base": 201871,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/201870/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/201870/header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "13183194",
+        "branch": "public",
+        "label": "Public - Build 13183194 (01/16/2024)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "201871",
+          "201872",
+          "201873",
+          "201882",
+          "228981",
+          "228982",
+          "228990",
+          "1716751"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          },
+          {
+            "id": 201872,
+            "key": "lang:russian",
+            "lang": "russian",
+            "label": "Русский (Russian)",
+            "source": "depot"
+          },
+          {
+            "id": 201873,
+            "key": "lang:czech",
+            "lang": "czech",
+            "label": "Čeština (Czech)",
+            "source": "depot"
+          }
+        ]
+      },
+      {
+        "id": "1905690",
+        "branch": "public",
+        "label": "Public - Build 1905690 (06/21/2017)",
+        "is_ready": true,
+        "is_recommended": false,
+        "manifest_depots": [
+          "201871",
+          "201872",
+          "201873",
+          "201882",
+          "228981",
+          "228982",
+          "228990",
+          "1716751"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          },
+          {
+            "id": 201872,
+            "key": "lang:russian",
+            "lang": "russian",
+            "label": "Русский (Russian)",
+            "source": "depot"
+          },
+          {
+            "id": 201873,
+            "key": "lang:czech",
+            "lang": "czech",
+            "label": "Čeština (Czech)",
+            "source": "depot"
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      },
+      {
+        "id": 201872,
+        "key": "lang:russian",
+        "lang": "russian",
+        "label": "Русский (Russian)",
+        "source": "depot"
+      },
+      {
+        "id": 201873,
+        "key": "lang:czech",
+        "lang": "czech",
+        "label": "Čeština (Czech)",
+        "source": "depot"
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      },
+      {
+        "id": 201872,
+        "key": "lang:russian",
+        "lang": "russian",
+        "label": "Русский (Russian)",
+        "source": "depot"
+      },
+      {
+        "id": 201873,
+        "key": "lang:czech",
+        "lang": "czech",
+        "label": "Čeština (Czech)",
+        "source": "depot"
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1794565764
+  },
+  {
     "id": "game-208480",
     "appid": 208480,
     "name": "Assassin's Creed® III",
