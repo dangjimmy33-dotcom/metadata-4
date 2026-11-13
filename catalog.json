@@ -2745,5 +2745,73 @@
     ],
     "json_rev": 1,
     "added_ts": 1794419197
+  },
+  {
+    "id": "game-911400",
+    "appid": 911400,
+    "name": "Assassin's Creed III Remastered",
+    "developer": "Ubisoft Entertainment",
+    "publisher": "Ubisoft Entertainment\t\t\t\t",
+    "installdir": "Assassin's Creed III Remastered",
+    "launch_exes": [
+      "ACIII.exe",
+      "ACLiberation.exe"
+    ],
+    "launch_exe": "ACIII.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "11324511",
+    "has_metadata": true,
+    "depot_base": 911401,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/911400/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/911400/header.jpg",
+    "platforms": [
+      "Windows (64-bit)",
+      "Windows (32-bit)"
+    ],
+    "versions": [
+      {
+        "id": "11324511",
+        "branch": "public",
+        "label": "Public - Build 11324511 (05/26/2023)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "911401",
+          "1716751"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1794564294
   }
 ]
