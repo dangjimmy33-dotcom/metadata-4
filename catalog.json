@@ -2834,6 +2834,72 @@
     "added_ts": 1794562571
   },
   {
+    "id": "game-5245810",
+    "appid": 5245810,
+    "name": "ForgeTax",
+    "developer": "GraveYardDev",
+    "publisher": "GraveYardDev",
+    "installdir": "ForgeTax",
+    "launch_exes": [
+      "ForgeTax.exe",
+      "ForgeTax.app"
+    ],
+    "launch_exe": "ForgeTax.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "26616808",
+    "has_metadata": true,
+    "depot_base": 5245811,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/5245810/a384ff6908082f06ba9e490e3be3d0b2ebed560f/library_capsule.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/5245810/f7f624422d8033d03706758d5f03fe197b48257c/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "26616808",
+        "branch": "public 🔥November Major Update: Face the Dragon with a Sword You Forged",
+        "label": "public 🔥November Major Update: Face the Dragon with a Sword You Forged - Build 26616808 (11/12/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "5245811"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1794567764
+  },
+  {
     "id": "game-648350",
     "appid": 648350,
     "name": "Jurassic World Evolution",
