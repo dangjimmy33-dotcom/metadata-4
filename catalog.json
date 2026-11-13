@@ -1860,6 +1860,73 @@
     "added_ts": 1794563243
   },
   {
+    "id": "game-3355800",
+    "appid": 3355800,
+    "name": "Bank Simulator",
+    "developer": "Strong Bow Games",
+    "publisher": "Strong Bow Games",
+    "installdir": "Bank Simulator",
+    "launch_exes": [
+      "Bank Simulator.exe",
+      "Bank Simulator.x86_64",
+      "Bank Simulator.app"
+    ],
+    "launch_exe": "Bank Simulator.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "26502492",
+    "has_metadata": true,
+    "depot_base": 3355801,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3355800/18d223c0c12ccb04252fddc4669e97e86807c007/library_capsule.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3355800/4f8767ce7d72cafa26587f5c181e5815226faed5/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "26502492",
+        "branch": "public Armored Car Lay-by, Vault Island Table and Friends Rankings",
+        "label": "public Armored Car Lay-by, Vault Island Table and Friends Rankings - Build 26502492 (11/07/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "3355801"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1794568354
+  },
+  {
     "id": "game-3472040",
     "appid": 3472040,
     "name": "NBA 2K26",
