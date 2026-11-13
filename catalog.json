@@ -907,6 +907,486 @@
     "added_ts": 1794329609
   },
   {
+    "id": "game-208480",
+    "appid": 208480,
+    "name": "Assassin's Creed® III",
+    "developer": "Ubisoft Montreal",
+    "publisher": "Ubisoft",
+    "installdir": "Assassin's Creed 3",
+    "launch_exes": [
+      "AC3SP.exe"
+    ],
+    "launch_exe": "AC3SP.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "13712883",
+    "has_metadata": true,
+    "depot_base": 208481,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/208480/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/208480/header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "13712883",
+        "branch": "public",
+        "label": "Public - Build 13712883 (03/12/2024)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "208481",
+          "208482",
+          "208489",
+          "208491",
+          "208493",
+          "208494",
+          "227121",
+          "227122",
+          "227123",
+          "227124",
+          "227125",
+          "227128",
+          "227129",
+          "227130",
+          "227131",
+          "227132",
+          "227134",
+          "227135",
+          "227136",
+          "227137",
+          "227138",
+          "227139",
+          "227140",
+          "227141",
+          "227143",
+          "227144",
+          "227145",
+          "228982",
+          "228983",
+          "228990",
+          "1716751"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          },
+          {
+            "id": 208493,
+            "key": "lang:schinese",
+            "lang": "schinese",
+            "label": "简体中文 (Simplified Chinese)",
+            "source": "depot"
+          },
+          {
+            "id": 208494,
+            "key": "lang:koreana",
+            "lang": "koreana",
+            "label": "한국어 (Korean)",
+            "source": "depot"
+          },
+          {
+            "id": 227122,
+            "key": "lang:french",
+            "lang": "french",
+            "label": "Français (French)",
+            "source": "depot"
+          },
+          {
+            "id": 227123,
+            "key": "lang:german",
+            "lang": "german",
+            "label": "Deutsch (German)",
+            "source": "depot"
+          },
+          {
+            "id": 227124,
+            "key": "lang:italian",
+            "lang": "italian",
+            "label": "Italiano (Italian)",
+            "source": "depot"
+          },
+          {
+            "id": 227125,
+            "key": "lang:russian",
+            "lang": "russian",
+            "label": "Русский (Russian)",
+            "source": "depot"
+          },
+          {
+            "id": 227128,
+            "key": "lang:brazilian",
+            "lang": "brazilian",
+            "label": "Português (Brazilian)",
+            "source": "depot"
+          },
+          {
+            "id": 227134,
+            "key": "lang:czech",
+            "lang": "czech",
+            "label": "Čeština (Czech)",
+            "source": "depot"
+          },
+          {
+            "id": 227135,
+            "key": "lang:danish",
+            "lang": "danish",
+            "label": "Danish",
+            "source": "depot"
+          },
+          {
+            "id": 227136,
+            "key": "lang:dutch",
+            "lang": "dutch",
+            "label": "Nederlands (Dutch)",
+            "source": "depot"
+          },
+          {
+            "id": 227137,
+            "key": "lang:finnish",
+            "lang": "finnish",
+            "label": "Finnish",
+            "source": "depot"
+          },
+          {
+            "id": 227138,
+            "key": "lang:hungarian",
+            "lang": "hungarian",
+            "label": "Magyar (Hungarian)",
+            "source": "depot"
+          },
+          {
+            "id": 227139,
+            "key": "lang:norwegian",
+            "lang": "norwegian",
+            "label": "Norwegian",
+            "source": "depot"
+          },
+          {
+            "id": 227140,
+            "key": "lang:polish",
+            "lang": "polish",
+            "label": "Polski (Polish)",
+            "source": "depot"
+          },
+          {
+            "id": 227141,
+            "key": "lang:portuguese",
+            "lang": "portuguese",
+            "label": "Português (Portuguese)",
+            "source": "depot"
+          },
+          {
+            "id": 227143,
+            "key": "lang:swedish",
+            "lang": "swedish",
+            "label": "Swedish",
+            "source": "depot"
+          },
+          {
+            "id": 227144,
+            "key": "lang:tchinese",
+            "lang": "tchinese",
+            "label": "繁體中文 (Traditional Chinese)",
+            "source": "depot"
+          },
+          {
+            "id": 227145,
+            "key": "lang:spanish",
+            "lang": "spanish",
+            "label": "Español (Spanish)",
+            "source": "depot"
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      },
+      {
+        "id": 208493,
+        "key": "lang:schinese",
+        "lang": "schinese",
+        "label": "简体中文 (Simplified Chinese)",
+        "source": "depot"
+      },
+      {
+        "id": 208494,
+        "key": "lang:koreana",
+        "lang": "koreana",
+        "label": "한국어 (Korean)",
+        "source": "depot"
+      },
+      {
+        "id": 227122,
+        "key": "lang:french",
+        "lang": "french",
+        "label": "Français (French)",
+        "source": "depot"
+      },
+      {
+        "id": 227123,
+        "key": "lang:german",
+        "lang": "german",
+        "label": "Deutsch (German)",
+        "source": "depot"
+      },
+      {
+        "id": 227124,
+        "key": "lang:italian",
+        "lang": "italian",
+        "label": "Italiano (Italian)",
+        "source": "depot"
+      },
+      {
+        "id": 227125,
+        "key": "lang:russian",
+        "lang": "russian",
+        "label": "Русский (Russian)",
+        "source": "depot"
+      },
+      {
+        "id": 227128,
+        "key": "lang:brazilian",
+        "lang": "brazilian",
+        "label": "Português (Brazilian)",
+        "source": "depot"
+      },
+      {
+        "id": 227134,
+        "key": "lang:czech",
+        "lang": "czech",
+        "label": "Čeština (Czech)",
+        "source": "depot"
+      },
+      {
+        "id": 227135,
+        "key": "lang:danish",
+        "lang": "danish",
+        "label": "Danish",
+        "source": "depot"
+      },
+      {
+        "id": 227136,
+        "key": "lang:dutch",
+        "lang": "dutch",
+        "label": "Nederlands (Dutch)",
+        "source": "depot"
+      },
+      {
+        "id": 227137,
+        "key": "lang:finnish",
+        "lang": "finnish",
+        "label": "Finnish",
+        "source": "depot"
+      },
+      {
+        "id": 227138,
+        "key": "lang:hungarian",
+        "lang": "hungarian",
+        "label": "Magyar (Hungarian)",
+        "source": "depot"
+      },
+      {
+        "id": 227139,
+        "key": "lang:norwegian",
+        "lang": "norwegian",
+        "label": "Norwegian",
+        "source": "depot"
+      },
+      {
+        "id": 227140,
+        "key": "lang:polish",
+        "lang": "polish",
+        "label": "Polski (Polish)",
+        "source": "depot"
+      },
+      {
+        "id": 227141,
+        "key": "lang:portuguese",
+        "lang": "portuguese",
+        "label": "Português (Portuguese)",
+        "source": "depot"
+      },
+      {
+        "id": 227143,
+        "key": "lang:swedish",
+        "lang": "swedish",
+        "label": "Swedish",
+        "source": "depot"
+      },
+      {
+        "id": 227144,
+        "key": "lang:tchinese",
+        "lang": "tchinese",
+        "label": "繁體中文 (Traditional Chinese)",
+        "source": "depot"
+      },
+      {
+        "id": 227145,
+        "key": "lang:spanish",
+        "lang": "spanish",
+        "label": "Español (Spanish)",
+        "source": "depot"
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      },
+      {
+        "id": 208493,
+        "key": "lang:schinese",
+        "lang": "schinese",
+        "label": "简体中文 (Simplified Chinese)",
+        "source": "depot"
+      },
+      {
+        "id": 208494,
+        "key": "lang:koreana",
+        "lang": "koreana",
+        "label": "한국어 (Korean)",
+        "source": "depot"
+      },
+      {
+        "id": 227122,
+        "key": "lang:french",
+        "lang": "french",
+        "label": "Français (French)",
+        "source": "depot"
+      },
+      {
+        "id": 227123,
+        "key": "lang:german",
+        "lang": "german",
+        "label": "Deutsch (German)",
+        "source": "depot"
+      },
+      {
+        "id": 227124,
+        "key": "lang:italian",
+        "lang": "italian",
+        "label": "Italiano (Italian)",
+        "source": "depot"
+      },
+      {
+        "id": 227125,
+        "key": "lang:russian",
+        "lang": "russian",
+        "label": "Русский (Russian)",
+        "source": "depot"
+      },
+      {
+        "id": 227126,
+        "key": "lang:japanese",
+        "lang": "japanese",
+        "label": "日本語 (Japanese)",
+        "source": "depot"
+      },
+      {
+        "id": 227128,
+        "key": "lang:brazilian",
+        "lang": "brazilian",
+        "label": "Português (Brazilian)",
+        "source": "depot"
+      },
+      {
+        "id": 227134,
+        "key": "lang:czech",
+        "lang": "czech",
+        "label": "Čeština (Czech)",
+        "source": "depot"
+      },
+      {
+        "id": 227135,
+        "key": "lang:danish",
+        "lang": "danish",
+        "label": "Danish",
+        "source": "depot"
+      },
+      {
+        "id": 227136,
+        "key": "lang:dutch",
+        "lang": "dutch",
+        "label": "Nederlands (Dutch)",
+        "source": "depot"
+      },
+      {
+        "id": 227137,
+        "key": "lang:finnish",
+        "lang": "finnish",
+        "label": "Finnish",
+        "source": "depot"
+      },
+      {
+        "id": 227138,
+        "key": "lang:hungarian",
+        "lang": "hungarian",
+        "label": "Magyar (Hungarian)",
+        "source": "depot"
+      },
+      {
+        "id": 227139,
+        "key": "lang:norwegian",
+        "lang": "norwegian",
+        "label": "Norwegian",
+        "source": "depot"
+      },
+      {
+        "id": 227140,
+        "key": "lang:polish",
+        "lang": "polish",
+        "label": "Polski (Polish)",
+        "source": "depot"
+      },
+      {
+        "id": 227141,
+        "key": "lang:portuguese",
+        "lang": "portuguese",
+        "label": "Português (Portuguese)",
+        "source": "depot"
+      },
+      {
+        "id": 227143,
+        "key": "lang:swedish",
+        "lang": "swedish",
+        "label": "Swedish",
+        "source": "depot"
+      },
+      {
+        "id": 227144,
+        "key": "lang:tchinese",
+        "lang": "tchinese",
+        "label": "繁體中文 (Traditional Chinese)",
+        "source": "depot"
+      },
+      {
+        "id": 227145,
+        "key": "lang:spanish",
+        "lang": "spanish",
+        "label": "Español (Spanish)",
+        "source": "depot"
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1794563919
+  },
+  {
     "id": "game-214490",
     "appid": 214490,
     "name": "Alien: Isolation",
