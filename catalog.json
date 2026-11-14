@@ -2159,6 +2159,75 @@
     "added_ts": 1794327324
   },
   {
+    "id": "game-4108000",
+    "appid": 4108000,
+    "name": "Machine Party",
+    "developer": "Mike Klubnika",
+    "publisher": "Oro Interactive",
+    "installdir": "party project",
+    "launch_exes": [
+      "Machine Party_Windows/Machine Party.exe",
+      "Machine Party.exe",
+      "Machine Party_Linux/Machine Party.x86_64",
+      "Machine Party.x86_64"
+    ],
+    "launch_exe": "Machine Party_Windows/Machine Party.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "24734326",
+    "has_metadata": true,
+    "depot_base": 4108002,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/4108000/d7697088fbd22ff29e38383923dc7c7053b23fd9/library_capsule.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/4108000/00ae7d0e0fd0ad72635bddb1dd80ee68cc94eed5/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "24734326",
+        "branch": "public v2.1.2 - Hotfix",
+        "label": "public v2.1.2 - Hotfix - Build 24734326 (08/14/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "4108002",
+          "4108003"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1794618908
+  },
+  {
     "id": "game-414700",
     "appid": 414700,
     "name": "Outlast 2",
