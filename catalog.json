@@ -814,6 +814,54 @@
             "is_default": true
           }
         ]
+      },
+      {
+        "id": "21276963",
+        "branch": "public Announcing the release of version 1.006",
+        "label": "public Announcing the release of version 1.006 - Build 21276963 (12/22/2025)",
+        "is_ready": true,
+        "is_recommended": false,
+        "manifest_depots": [
+          "228988",
+          "228990",
+          "1462041",
+          "1462042",
+          "1462043"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      },
+      {
+        "id": "16791625",
+        "branch": "public Announcing the release of version 1.005",
+        "label": "public Announcing the release of version 1.005 - Build 16791625 (12/19/2024)",
+        "is_ready": true,
+        "is_recommended": false,
+        "manifest_depots": [
+          "228988",
+          "228990",
+          "1462041",
+          "1462042",
+          "1462043"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
       }
     ],
     "languages": [
