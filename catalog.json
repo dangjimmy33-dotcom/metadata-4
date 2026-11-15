@@ -771,6 +771,75 @@
     "added_ts": 1794329065
   },
   {
+    "id": "game-1462040",
+    "appid": 1462040,
+    "name": "FINAL FANTASY VII REMAKE INTERGRADE",
+    "developer": "Square Enix",
+    "publisher": "Square Enix",
+    "installdir": "FINAL FANTASY VII REMAKE",
+    "launch_exes": [
+      "ff7remake.exe"
+    ],
+    "launch_exe": "ff7remake.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "21888968",
+    "has_metadata": true,
+    "depot_base": 1462041,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1462040/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1462040/67aebedbdfc261278fc5e3cd45b519212ac0555a/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "21888968",
+        "branch": "public Announcing the release of version 1.007",
+        "label": "public Announcing the release of version 1.007 - Build 21888968 (02/12/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228988",
+          "228990",
+          "1462041",
+          "1462042",
+          "1462043"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1794718824
+  },
+  {
     "id": "game-1903340",
     "appid": 1903340,
     "name": "Clair Obscur: Expedition 33",
