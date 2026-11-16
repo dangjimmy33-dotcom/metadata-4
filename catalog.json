@@ -3360,5 +3360,79 @@
     ],
     "json_rev": 1,
     "added_ts": 1794564294
+  },
+  {
+    "id": "game-934700",
+    "appid": 934700,
+    "name": "Dead Island 2",
+    "developer": "Dambuster Studios",
+    "publisher": "Deep Silver",
+    "installdir": "Dead Island 2",
+    "launch_exes": [
+      "DeadIsland.exe",
+      "DeadIsland2.app",
+      "DeadIsland-Test.app"
+    ],
+    "launch_exe": "DeadIsland.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "25629748",
+    "has_metadata": true,
+    "depot_base": 934701,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/934700/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/934700/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "25629748",
+        "branch": "public",
+        "label": "Public - Build 25629748 (09/06/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228988",
+          "228990",
+          "934701",
+          "934702",
+          "934703",
+          "934704",
+          "934705",
+          "934706"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1794819428
   }
 ]
