@@ -771,6 +771,166 @@
     "added_ts": 1794329065
   },
   {
+    "id": "game-12210",
+    "appid": 12210,
+    "name": "Grand Theft Auto IV: The Complete Edition",
+    "developer": "Rockstar North",
+    "publisher": "Rockstar Games",
+    "installdir": "Grand Theft Auto IV",
+    "launch_exes": [
+      "GTAIV/PlayGTAIV.exe",
+      "PlayGTAIV.exe"
+    ],
+    "launch_exe": "GTAIV/PlayGTAIV.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "14009960",
+    "has_metadata": true,
+    "depot_base": 12211,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/12210/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/12210/header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "14009960",
+        "branch": "public",
+        "label": "Public - Build 14009960 (04/10/2024)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "12211",
+          "12212",
+          "12213",
+          "12214",
+          "12215",
+          "12216",
+          "12217",
+          "12218",
+          "228984",
+          "228990",
+          "1899671"
+        ],
+        "languages": [
+          {
+            "id": 12213,
+            "key": "lang:english",
+            "lang": "english",
+            "label": "English (Default)",
+            "source": "depot",
+            "is_default": true
+          },
+          {
+            "id": 12214,
+            "key": "lang:french",
+            "lang": "french",
+            "label": "Français (French)",
+            "source": "depot"
+          },
+          {
+            "id": 12215,
+            "key": "lang:italian",
+            "lang": "italian",
+            "label": "Italiano (Italian)",
+            "source": "depot"
+          },
+          {
+            "id": 12216,
+            "key": "lang:german",
+            "lang": "german",
+            "label": "Deutsch (German)",
+            "source": "depot"
+          },
+          {
+            "id": 12217,
+            "key": "lang:spanish",
+            "lang": "spanish",
+            "label": "Español (Spanish)",
+            "source": "depot"
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 12213,
+        "key": "lang:english",
+        "lang": "english",
+        "label": "English (Default)",
+        "source": "depot",
+        "is_default": true
+      },
+      {
+        "id": 12214,
+        "key": "lang:french",
+        "lang": "french",
+        "label": "Français (French)",
+        "source": "depot"
+      },
+      {
+        "id": 12215,
+        "key": "lang:italian",
+        "lang": "italian",
+        "label": "Italiano (Italian)",
+        "source": "depot"
+      },
+      {
+        "id": 12216,
+        "key": "lang:german",
+        "lang": "german",
+        "label": "Deutsch (German)",
+        "source": "depot"
+      },
+      {
+        "id": 12217,
+        "key": "lang:spanish",
+        "lang": "spanish",
+        "label": "Español (Spanish)",
+        "source": "depot"
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 12213,
+        "key": "lang:english",
+        "lang": "english",
+        "label": "English (Default)",
+        "source": "depot",
+        "is_default": true
+      },
+      {
+        "id": 12214,
+        "key": "lang:french",
+        "lang": "french",
+        "label": "Français (French)",
+        "source": "depot"
+      },
+      {
+        "id": 12215,
+        "key": "lang:italian",
+        "lang": "italian",
+        "label": "Italiano (Italian)",
+        "source": "depot"
+      },
+      {
+        "id": 12216,
+        "key": "lang:german",
+        "lang": "german",
+        "label": "Deutsch (German)",
+        "source": "depot"
+      },
+      {
+        "id": 12217,
+        "key": "lang:spanish",
+        "lang": "spanish",
+        "label": "Español (Spanish)",
+        "source": "depot"
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1794928025
+  },
+  {
     "id": "game-1462040",
     "appid": 1462040,
     "name": "FINAL FANTASY VII REMAKE INTERGRADE",
