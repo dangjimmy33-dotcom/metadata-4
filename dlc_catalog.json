@@ -1,5 +1,5 @@
 {
-  "updated_at": 1794979084,
+  "updated_at": 1794979720,
   "total_games": 19,
   "total_dlcs": 167,
   "games": {
@@ -213,7 +213,7 @@
     "48195": {
       "appid": "48195",
       "name": "Assassin's Creed Brotherhood - Standard CD Key",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/48195/header.jpg",
       "parent": "48190",
       "store_visible": false,
       "metadata_file": "48190/DLCs/48195.json"
@@ -221,7 +221,7 @@
     "48196": {
       "appid": "48196",
       "name": "Assassin's Creed Brotherhood - Deluxe CD Key",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/48196/header.jpg",
       "parent": "48190",
       "store_visible": false,
       "metadata_file": "48190/DLCs/48196.json"
@@ -229,7 +229,7 @@
     "48197": {
       "appid": "48197",
       "name": "Assassin's Creed Brotherhood - Standard CD Key Mac",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/48197/header.jpg",
       "parent": "48190",
       "store_visible": false,
       "metadata_file": "48190/DLCs/48197.json"
@@ -237,7 +237,7 @@
     "48198": {
       "appid": "48198",
       "name": "Assassin's Creed Brotherhood - Deluxe CD Key Mac",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/48198/header.jpg",
       "parent": "48190",
       "store_visible": false,
       "metadata_file": "48190/DLCs/48198.json"
@@ -253,7 +253,7 @@
     "108727": {
       "appid": "108727",
       "name": "Alan Wake LatAmSpanish",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/108727/header.jpg",
       "parent": "108710",
       "store_visible": false,
       "metadata_file": "108710/DLCs/108727.json"
@@ -261,7 +261,7 @@
     "201878": {
       "appid": "201878",
       "name": "Assassin's Creed Revelations - Standard Key",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/201878/header.jpg",
       "parent": "201870",
       "store_visible": false,
       "metadata_file": "201870/DLCs/201878.json"
@@ -269,15 +269,15 @@
     "201879": {
       "appid": "201879",
       "name": "Assassin's Creed Revelations - Deluxe Key",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/201879/header.jpg",
       "parent": "201870",
       "store_visible": false,
       "metadata_file": "201870/DLCs/201879.json"
     },
     "201880": {
       "appid": "201880",
-      "name": "",
-      "image": "",
+      "name": "Assassin's Creed Revelations - The Ancestors Character Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/201880/header.jpg",
       "parent": "201870",
       "store_visible": false,
       "metadata_file": ""
@@ -301,7 +301,7 @@
     "208482": {
       "appid": "208482",
       "name": "Assassin's Creed 3 - Deluxe",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/208482/header.jpg",
       "parent": "208480",
       "store_visible": false,
       "metadata_file": "208480/DLCs/208482.json"
@@ -309,7 +309,7 @@
     "208483": {
       "appid": "208483",
       "name": "Assassin's Creed III - Standard Edition Pre-Order Key",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/208483/header.jpg",
       "parent": "208480",
       "store_visible": false,
       "metadata_file": "208480/DLCs/208483.json"
@@ -317,7 +317,7 @@
     "208484": {
       "appid": "208484",
       "name": "Assassin's Creed III - Standard Edition Key",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/208484/header.jpg",
       "parent": "208480",
       "store_visible": false,
       "metadata_file": "208480/DLCs/208484.json"
@@ -325,7 +325,7 @@
     "208485": {
       "appid": "208485",
       "name": "Assassin's Creed III - Deluxe Edition Key",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/208485/header.jpg",
       "parent": "208480",
       "store_visible": false,
       "metadata_file": "208480/DLCs/208485.json"
@@ -333,7 +333,7 @@
     "208487": {
       "appid": "208487",
       "name": "Assassin's Creed III - Season Pass Key",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/208487/header.jpg",
       "parent": "208480",
       "store_visible": false,
       "metadata_file": "208480/DLCs/208487.json"
@@ -341,7 +341,7 @@
     "208488": {
       "appid": "208488",
       "name": "Assassin's Creed III - Benedict Arnold DLC Key",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/208488/header.jpg",
       "parent": "208480",
       "store_visible": false,
       "metadata_file": "208480/DLCs/208488.json"
@@ -349,7 +349,7 @@
     "208489": {
       "appid": "208489",
       "name": "Assassin's Creed III - ASIA Edition Key",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/208489/header.jpg",
       "parent": "208480",
       "store_visible": false,
       "metadata_file": "208480/DLCs/208489.json"
@@ -365,7 +365,7 @@
     "208492": {
       "appid": "208492",
       "name": "Assassin’s Creed® III – The Hidden Secrets Pack Activation Key",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/208492/header.jpg",
       "parent": "208480",
       "store_visible": false,
       "metadata_file": "208480/DLCs/208492.json"
@@ -405,7 +405,7 @@
     "227133": {
       "appid": "227133",
       "name": "Assassin's Creed III - Battle Hardened Pack Activation Key",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/227133/header.jpg",
       "parent": "208480",
       "store_visible": false,
       "metadata_file": "208480/DLCs/227133.json"
@@ -413,7 +413,7 @@
     "227146": {
       "appid": "227146",
       "name": "Tyranny of King Washington: The Infamy Activation Key",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/227146/header.jpg",
       "parent": "208480",
       "store_visible": false,
       "metadata_file": "208480/DLCs/227146.json"
@@ -421,7 +421,7 @@
     "227147": {
       "appid": "227147",
       "name": "Tyranny of King Washington: The Betrayal Activation Key",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/227147/header.jpg",
       "parent": "208480",
       "store_visible": false,
       "metadata_file": "208480/DLCs/227147.json"
@@ -429,7 +429,7 @@
     "227148": {
       "appid": "227148",
       "name": "Tyranny of King Washington: The Redemption Activation Key",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/227148/header.jpg",
       "parent": "208480",
       "store_visible": false,
       "metadata_file": "208480/DLCs/227148.json"
@@ -557,7 +557,7 @@
     "352920": {
       "appid": "352920",
       "name": "AC Rogue pre-order WW - Uplay activation",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/352920/header.jpg",
       "parent": "311560",
       "store_visible": false,
       "metadata_file": "311560/DLCs/352920.json"
@@ -565,7 +565,7 @@
     "352921": {
       "appid": "352921",
       "name": "AC Rogue pre-order RU - Uplay activation",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/352921/header.jpg",
       "parent": "311560",
       "store_visible": false,
       "metadata_file": "311560/DLCs/352921.json"
@@ -573,7 +573,7 @@
     "352922": {
       "appid": "352922",
       "name": "AC Rogue pre-order ASIA - Uplay activation",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/352922/header.jpg",
       "parent": "311560",
       "store_visible": false,
       "metadata_file": "311560/DLCs/352922.json"
@@ -581,7 +581,7 @@
     "352923": {
       "appid": "352923",
       "name": "AC Rogue Deluxe WW - Uplay activation",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/352923/header.jpg",
       "parent": "311560",
       "store_visible": false,
       "metadata_file": "311560/DLCs/352923.json"
@@ -589,7 +589,7 @@
     "352924": {
       "appid": "352924",
       "name": "AC Rogue Deluxe RU - Uplay activation",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/352924/header.jpg",
       "parent": "311560",
       "store_visible": false,
       "metadata_file": "311560/DLCs/352924.json"
@@ -597,7 +597,7 @@
     "352925": {
       "appid": "352925",
       "name": "AC Rogue Deluxe ASIA - Uplay activation",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/352925/header.jpg",
       "parent": "311560",
       "store_visible": false,
       "metadata_file": "311560/DLCs/352925.json"
@@ -605,7 +605,7 @@
     "352926": {
       "appid": "352926",
       "name": "AC Rogue WW - Uplay activation",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/352926/header.jpg",
       "parent": "311560",
       "store_visible": false,
       "metadata_file": "311560/DLCs/352926.json"
@@ -613,7 +613,7 @@
     "352927": {
       "appid": "352927",
       "name": "AC Rogue RU - Uplay activation",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/352927/header.jpg",
       "parent": "311560",
       "store_visible": false,
       "metadata_file": "311560/DLCs/352927.json"
@@ -621,7 +621,7 @@
     "352928": {
       "appid": "352928",
       "name": "AC Rogue ASIA - Uplay activation",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/352928/header.jpg",
       "parent": "311560",
       "store_visible": false,
       "metadata_file": "311560/DLCs/352928.json"
@@ -629,7 +629,7 @@
     "352940": {
       "appid": "352940",
       "name": "AC Rogue Activities Pack - Uplay Activation",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/352940/header.jpg",
       "parent": "311560",
       "store_visible": false,
       "metadata_file": "311560/DLCs/352940.json"
@@ -637,7 +637,7 @@
     "352941": {
       "appid": "352941",
       "name": "AC Rogue Collectibles Pack - Uplay Activation",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/352941/header.jpg",
       "parent": "311560",
       "store_visible": false,
       "metadata_file": "311560/DLCs/352941.json"
@@ -645,7 +645,7 @@
     "352942": {
       "appid": "352942",
       "name": "AC Rogue Resources Pack - Uplay Activation",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/352942/header.jpg",
       "parent": "311560",
       "store_visible": false,
       "metadata_file": "311560/DLCs/352942.json"
@@ -653,7 +653,7 @@
     "352943": {
       "appid": "352943",
       "name": "AC Rogue Technology Pack - Uplay Activation",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/352943/header.jpg",
       "parent": "311560",
       "store_visible": false,
       "metadata_file": "311560/DLCs/352943.json"
@@ -661,23 +661,23 @@
     "352944": {
       "appid": "352944",
       "name": "AC Rogue Templar Legacy Pack - Uplay Activation",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/352944/header.jpg",
       "parent": "311560",
       "store_visible": false,
       "metadata_file": "311560/DLCs/352944.json"
     },
     "389110": {
       "appid": "389110",
-      "name": "",
-      "image": "",
+      "name": "AppID 389110",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/389110/header.jpg",
       "parent": "12120",
       "store_visible": false,
       "metadata_file": ""
     },
     "389550": {
       "appid": "389550",
-      "name": "",
-      "image": "",
+      "name": "AppID 389550",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/389550/header.jpg",
       "parent": "12120",
       "store_visible": false,
       "metadata_file": ""
@@ -781,7 +781,7 @@
     "965420": {
       "appid": "965420",
       "name": "Jurassic World Evolution - JingleJam",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/965420/header.jpg",
       "parent": "648350",
       "store_visible": false,
       "metadata_file": "648350/DLCs/965420.json"
@@ -796,8 +796,8 @@
     },
     "985980": {
       "appid": "985980",
-      "name": "",
-      "image": "",
+      "name": "AppID 985980",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/985980/header.jpg",
       "parent": "911400",
       "store_visible": false,
       "metadata_file": ""
@@ -845,7 +845,7 @@
     "1178730": {
       "appid": "1178730",
       "name": "STAR WARS Jedi: Fallen Order - Deluxe Edition Content",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1178730/header.jpg",
       "parent": "1172380",
       "store_visible": false,
       "metadata_file": "1172380/DLCs/1178730.json"
@@ -853,7 +853,7 @@
     "1179140": {
       "appid": "1179140",
       "name": "STAR WARS Jedi: Fallen Order Deluxe Edition Key",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1179140/header.jpg",
       "parent": "1172380",
       "store_visible": false,
       "metadata_file": "1172380/DLCs/1179140.json"
@@ -861,7 +861,7 @@
     "1179141": {
       "appid": "1179141",
       "name": "STAR WARS Jedi: Fallen Order Deluxe Edition Pre-Purchase Key",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1179141/header.jpg",
       "parent": "1172380",
       "store_visible": false,
       "metadata_file": "1172380/DLCs/1179141.json"
@@ -869,7 +869,7 @@
     "1179142": {
       "appid": "1179142",
       "name": "STAR WARS Jedi: Fallen Order Key",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1179142/header.jpg",
       "parent": "1172380",
       "store_visible": false,
       "metadata_file": "1172380/DLCs/1179142.json"
@@ -877,7 +877,7 @@
     "1179200": {
       "appid": "1179200",
       "name": "STAR WARS Jedi: Fallen Order Pre-Purchase Key",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1179200/header.jpg",
       "parent": "1172380",
       "store_visible": false,
       "metadata_file": "1172380/DLCs/1179200.json"
@@ -885,7 +885,7 @@
     "1192320": {
       "appid": "1192320",
       "name": "STAR WARS Jedi: Fallen Order Pre-Purchase Content Key",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1192320/header.jpg",
       "parent": "1172380",
       "store_visible": false,
       "metadata_file": "1172380/DLCs/1192320.json"
@@ -900,8 +900,8 @@
     },
     "1363591": {
       "appid": "1363591",
-      "name": "",
-      "image": "",
+      "name": "DIRT 5 - Porsche Macan T1 Rally Raid",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1363591/header.jpg",
       "parent": "1038250",
       "store_visible": false,
       "metadata_file": ""
@@ -924,24 +924,24 @@
     },
     "1398190": {
       "appid": "1398190",
-      "name": "",
-      "image": "",
+      "name": "AppID 1398190",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1398190/header.jpg",
       "parent": "1038250",
       "store_visible": false,
       "metadata_file": ""
     },
     "1469470": {
       "appid": "1469470",
-      "name": "",
-      "image": "",
+      "name": "AppID 1469470",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1469470/header.jpg",
       "parent": "1038250",
       "store_visible": false,
       "metadata_file": ""
     },
     "1469471": {
       "appid": "1469471",
-      "name": "",
-      "image": "",
+      "name": "AppID 1469471",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1469471/header.jpg",
       "parent": "1038250",
       "store_visible": false,
       "metadata_file": ""
@@ -1109,7 +1109,7 @@
     "3657560": {
       "appid": "3657560",
       "name": "NBA 2K26 SLAM Edition Bonus Pack Offer",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3657560/header.jpg",
       "parent": "3472040",
       "store_visible": false,
       "metadata_file": "3472040/DLCs/3657560.json"
@@ -1405,7 +1405,7 @@
     "3825290": {
       "appid": "3825290",
       "name": "High Resolution Textures",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3825290/header.jpg",
       "parent": "3472040",
       "store_visible": false,
       "metadata_file": "3472040/DLCs/3825290.json"
@@ -1429,7 +1429,7 @@
     "3901020": {
       "appid": "3901020",
       "name": "NBA 2K26 35,000 Virtual Currency Pack",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3901020/header.jpg",
       "parent": "3472040",
       "store_visible": false,
       "metadata_file": "3472040/DLCs/3901020.json"
@@ -1437,7 +1437,7 @@
     "3901030": {
       "appid": "3901030",
       "name": "NBA 2K26 75,000 Virtual Currency Pack",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3901030/header.jpg",
       "parent": "3472040",
       "store_visible": false,
       "metadata_file": "3472040/DLCs/3901030.json"
@@ -1445,7 +1445,7 @@
     "4041510": {
       "appid": "4041510",
       "name": "EA SPORTS™ College Football 27",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4041510/header.jpg",
       "parent": "4032350",
       "store_visible": false,
       "metadata_file": "4032350/DLCs/4041510.json"
@@ -1461,7 +1461,7 @@
     "4113840": {
       "appid": "4113840",
       "name": "EA SPORTS™ College Football 27 Deluxe Edition Pre-order Content",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4113840/header.jpg",
       "parent": "4032350",
       "store_visible": false,
       "metadata_file": "4032350/DLCs/4113840.json"
@@ -1469,7 +1469,7 @@
     "4113850": {
       "appid": "4113850",
       "name": "EA SPORTS™ College Football 27 Deluxe Edition Pre-order Content",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4113850/header.jpg",
       "parent": "4032350",
       "store_visible": false,
       "metadata_file": "4032350/DLCs/4113850.json"
@@ -1485,7 +1485,7 @@
     "4115150": {
       "appid": "4115150",
       "name": "College Football 27 - EA Play Trial Key",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4115150/header.jpg",
       "parent": "4032350",
       "store_visible": false,
       "metadata_file": "4032350/DLCs/4115150.json"
@@ -1493,7 +1493,7 @@
     "4407660": {
       "appid": "4407660",
       "name": "EA SPORTS FC™ 27 Lite",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4407660/header.jpg",
       "parent": "4407750",
       "store_visible": false,
       "metadata_file": "4407750/DLCs/4407660.json"
@@ -1533,7 +1533,7 @@
     "4765430": {
       "appid": "4765430",
       "name": "NBA 2K26 LTO Pre-Order Bonus",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4765430/header.jpg",
       "parent": "3472040",
       "store_visible": false,
       "metadata_file": "3472040/DLCs/4765430.json"
