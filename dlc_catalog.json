@@ -1,1 +1,1550 @@
-﻿{"updated_at":1794976851,"total_games":19,"total_dlcs":167,"games":{"1038250":["1363540","1363591","1379260","1379261","1469470","1469471","1516260","1517270","1633610","1690420","1398190"],"108710":["108726","108727","268560"],"1172380":["1178730","1179140","1179141","1179142","1179200","1192320"],"12120":["389110","389550"],"1903340":["3228520"],"201870":["201878","201879","201880","201881","201882"],"208480":["208482","208483","208484","208485","208487","208488","208489","208491","208492","227129","227130","227131","227132","227133","227146","227147","227148"],"214490":["282510","282511","282512","282513","282514","282515","282516","324020","324030"],"2495100":["3359740","3890520","4055140","4724090"],"311560":["339030","339031","339032","339033","339034","352920","352921","352922","352923","352924","352925","352926","352927","352928","352940","352941","352942","352943","352944"],"3472040":["3657560","3657590","3657600","3657610","3657620","3657640","3657650","3657660","3657670","3657680","3657690","3657700","3657710","3657750","3657760","3657770","3657780","3657790","3657800","3657810","3657820","3657840","3657850","3657860","3657870","3657880","3657890","3657900","3657910","3657920","3657930","3657940","3657950","3657960","3657970","3657980","3657990","3825290","3901020","3901030","4765430"],"3629430":["5307520"],"377160":["404090","435870","435880","435881","480630","480631","490650","540810","598110","3868650"],"4032350":["4041510","4113840","4113850","4113870","4115150","4681330","4681570","4709850"],"4407750":["4407660"],"48190":["48195","48196","48197","48198"],"648350":["817550","817560","953940","965420","979930","988470","1028430","1107760","1144410","1144420"],"911400":["985980"],"934700":["2667910","2813000","2813010","2813020","2813030","2813040","2813050","2813060","2813070","2813080","2813090","2813100","2813110","2813310"]}}
+{
+  "updated_at": 1794979084,
+  "total_games": 19,
+  "total_dlcs": 167,
+  "games": {
+    "1038250": [
+      "1363540",
+      "1363591",
+      "1379260",
+      "1379261",
+      "1469470",
+      "1469471",
+      "1516260",
+      "1517270",
+      "1633610",
+      "1690420",
+      "1398190"
+    ],
+    "108710": [
+      "108726",
+      "108727",
+      "268560"
+    ],
+    "1172380": [
+      "1178730",
+      "1179140",
+      "1179141",
+      "1179142",
+      "1179200",
+      "1192320"
+    ],
+    "12120": [
+      "389110",
+      "389550"
+    ],
+    "1903340": [
+      "3228520"
+    ],
+    "201870": [
+      "201878",
+      "201879",
+      "201880",
+      "201881",
+      "201882"
+    ],
+    "208480": [
+      "208482",
+      "208483",
+      "208484",
+      "208485",
+      "208487",
+      "208488",
+      "208489",
+      "208491",
+      "208492",
+      "227129",
+      "227130",
+      "227131",
+      "227132",
+      "227133",
+      "227146",
+      "227147",
+      "227148"
+    ],
+    "214490": [
+      "282510",
+      "282511",
+      "282512",
+      "282513",
+      "282514",
+      "282515",
+      "282516",
+      "324020",
+      "324030"
+    ],
+    "2495100": [
+      "3359740",
+      "3890520",
+      "4055140",
+      "4724090"
+    ],
+    "311560": [
+      "339030",
+      "339031",
+      "339032",
+      "339033",
+      "339034",
+      "352920",
+      "352921",
+      "352922",
+      "352923",
+      "352924",
+      "352925",
+      "352926",
+      "352927",
+      "352928",
+      "352940",
+      "352941",
+      "352942",
+      "352943",
+      "352944"
+    ],
+    "3472040": [
+      "3657560",
+      "3657590",
+      "3657600",
+      "3657610",
+      "3657620",
+      "3657640",
+      "3657650",
+      "3657660",
+      "3657670",
+      "3657680",
+      "3657690",
+      "3657700",
+      "3657710",
+      "3657750",
+      "3657760",
+      "3657770",
+      "3657780",
+      "3657790",
+      "3657800",
+      "3657810",
+      "3657820",
+      "3657840",
+      "3657850",
+      "3657860",
+      "3657870",
+      "3657880",
+      "3657890",
+      "3657900",
+      "3657910",
+      "3657920",
+      "3657930",
+      "3657940",
+      "3657950",
+      "3657960",
+      "3657970",
+      "3657980",
+      "3657990",
+      "3825290",
+      "3901020",
+      "3901030",
+      "4765430"
+    ],
+    "3629430": [
+      "5307520"
+    ],
+    "377160": [
+      "404090",
+      "435870",
+      "435880",
+      "435881",
+      "480630",
+      "480631",
+      "490650",
+      "540810",
+      "598110",
+      "3868650"
+    ],
+    "4032350": [
+      "4041510",
+      "4113840",
+      "4113850",
+      "4113870",
+      "4115150",
+      "4681330",
+      "4681570",
+      "4709850"
+    ],
+    "4407750": [
+      "4407660"
+    ],
+    "48190": [
+      "48195",
+      "48196",
+      "48197",
+      "48198"
+    ],
+    "648350": [
+      "817550",
+      "817560",
+      "953940",
+      "965420",
+      "979930",
+      "988470",
+      "1028430",
+      "1107760",
+      "1144410",
+      "1144420"
+    ],
+    "911400": [
+      "985980"
+    ],
+    "934700": [
+      "2667910",
+      "2813000",
+      "2813010",
+      "2813020",
+      "2813030",
+      "2813040",
+      "2813050",
+      "2813060",
+      "2813070",
+      "2813080",
+      "2813090",
+      "2813100",
+      "2813110",
+      "2813310"
+    ]
+  },
+  "dlcs": {
+    "48195": {
+      "appid": "48195",
+      "name": "Assassin's Creed Brotherhood - Standard CD Key",
+      "image": "",
+      "parent": "48190",
+      "store_visible": false,
+      "metadata_file": "48190/DLCs/48195.json"
+    },
+    "48196": {
+      "appid": "48196",
+      "name": "Assassin's Creed Brotherhood - Deluxe CD Key",
+      "image": "",
+      "parent": "48190",
+      "store_visible": false,
+      "metadata_file": "48190/DLCs/48196.json"
+    },
+    "48197": {
+      "appid": "48197",
+      "name": "Assassin's Creed Brotherhood - Standard CD Key Mac",
+      "image": "",
+      "parent": "48190",
+      "store_visible": false,
+      "metadata_file": "48190/DLCs/48197.json"
+    },
+    "48198": {
+      "appid": "48198",
+      "name": "Assassin's Creed Brotherhood - Deluxe CD Key Mac",
+      "image": "",
+      "parent": "48190",
+      "store_visible": false,
+      "metadata_file": "48190/DLCs/48198.json"
+    },
+    "108726": {
+      "appid": "108726",
+      "name": "Alan Wake Developer Commentary",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/108726/header.jpg",
+      "parent": "108710",
+      "store_visible": false,
+      "metadata_file": "108710/DLCs/108726.json"
+    },
+    "108727": {
+      "appid": "108727",
+      "name": "Alan Wake LatAmSpanish",
+      "image": "",
+      "parent": "108710",
+      "store_visible": false,
+      "metadata_file": "108710/DLCs/108727.json"
+    },
+    "201878": {
+      "appid": "201878",
+      "name": "Assassin's Creed Revelations - Standard Key",
+      "image": "",
+      "parent": "201870",
+      "store_visible": false,
+      "metadata_file": "201870/DLCs/201878.json"
+    },
+    "201879": {
+      "appid": "201879",
+      "name": "Assassin's Creed Revelations - Deluxe Key",
+      "image": "",
+      "parent": "201870",
+      "store_visible": false,
+      "metadata_file": "201870/DLCs/201879.json"
+    },
+    "201880": {
+      "appid": "201880",
+      "name": "",
+      "image": "",
+      "parent": "201870",
+      "store_visible": false,
+      "metadata_file": ""
+    },
+    "201881": {
+      "appid": "201881",
+      "name": "Assassin's Creed Revelations - The Mediterranean Traveler Map Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/201881/header.jpg",
+      "parent": "201870",
+      "store_visible": false,
+      "metadata_file": "201870/DLCs/201881.json"
+    },
+    "201882": {
+      "appid": "201882",
+      "name": "Assassin's Creed Revelations - The Lost Archive",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/201882/header.jpg",
+      "parent": "201870",
+      "store_visible": false,
+      "metadata_file": "201870/DLCs/201882.json"
+    },
+    "208482": {
+      "appid": "208482",
+      "name": "Assassin's Creed 3 - Deluxe",
+      "image": "",
+      "parent": "208480",
+      "store_visible": false,
+      "metadata_file": "208480/DLCs/208482.json"
+    },
+    "208483": {
+      "appid": "208483",
+      "name": "Assassin's Creed III - Standard Edition Pre-Order Key",
+      "image": "",
+      "parent": "208480",
+      "store_visible": false,
+      "metadata_file": "208480/DLCs/208483.json"
+    },
+    "208484": {
+      "appid": "208484",
+      "name": "Assassin's Creed III - Standard Edition Key",
+      "image": "",
+      "parent": "208480",
+      "store_visible": false,
+      "metadata_file": "208480/DLCs/208484.json"
+    },
+    "208485": {
+      "appid": "208485",
+      "name": "Assassin's Creed III - Deluxe Edition Key",
+      "image": "",
+      "parent": "208480",
+      "store_visible": false,
+      "metadata_file": "208480/DLCs/208485.json"
+    },
+    "208487": {
+      "appid": "208487",
+      "name": "Assassin's Creed III - Season Pass Key",
+      "image": "",
+      "parent": "208480",
+      "store_visible": false,
+      "metadata_file": "208480/DLCs/208487.json"
+    },
+    "208488": {
+      "appid": "208488",
+      "name": "Assassin's Creed III - Benedict Arnold DLC Key",
+      "image": "",
+      "parent": "208480",
+      "store_visible": false,
+      "metadata_file": "208480/DLCs/208488.json"
+    },
+    "208489": {
+      "appid": "208489",
+      "name": "Assassin's Creed III - ASIA Edition Key",
+      "image": "",
+      "parent": "208480",
+      "store_visible": false,
+      "metadata_file": "208480/DLCs/208489.json"
+    },
+    "208491": {
+      "appid": "208491",
+      "name": "Assassin’s Creed® III – The Hidden Secrets Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/208491/header.jpg",
+      "parent": "208480",
+      "store_visible": false,
+      "metadata_file": "208480/DLCs/208491.json"
+    },
+    "208492": {
+      "appid": "208492",
+      "name": "Assassin’s Creed® III – The Hidden Secrets Pack Activation Key",
+      "image": "",
+      "parent": "208480",
+      "store_visible": false,
+      "metadata_file": "208480/DLCs/208492.json"
+    },
+    "227129": {
+      "appid": "227129",
+      "name": "Assassin's Creed III - Battle Hardened Pack DLC",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/227129/header.jpg",
+      "parent": "208480",
+      "store_visible": false,
+      "metadata_file": "208480/DLCs/227129.json"
+    },
+    "227130": {
+      "appid": "227130",
+      "name": "Tyranny of King Washington: The Infamy",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/227130/header.jpg",
+      "parent": "208480",
+      "store_visible": false,
+      "metadata_file": "208480/DLCs/227130.json"
+    },
+    "227131": {
+      "appid": "227131",
+      "name": "Tyranny of King Washington: The Betrayal",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/227131/header.jpg",
+      "parent": "208480",
+      "store_visible": false,
+      "metadata_file": "208480/DLCs/227131.json"
+    },
+    "227132": {
+      "appid": "227132",
+      "name": "Tyranny of King Washington: The Redemption",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/227132/header.jpg",
+      "parent": "208480",
+      "store_visible": false,
+      "metadata_file": "208480/DLCs/227132.json"
+    },
+    "227133": {
+      "appid": "227133",
+      "name": "Assassin's Creed III - Battle Hardened Pack Activation Key",
+      "image": "",
+      "parent": "208480",
+      "store_visible": false,
+      "metadata_file": "208480/DLCs/227133.json"
+    },
+    "227146": {
+      "appid": "227146",
+      "name": "Tyranny of King Washington: The Infamy Activation Key",
+      "image": "",
+      "parent": "208480",
+      "store_visible": false,
+      "metadata_file": "208480/DLCs/227146.json"
+    },
+    "227147": {
+      "appid": "227147",
+      "name": "Tyranny of King Washington: The Betrayal Activation Key",
+      "image": "",
+      "parent": "208480",
+      "store_visible": false,
+      "metadata_file": "208480/DLCs/227147.json"
+    },
+    "227148": {
+      "appid": "227148",
+      "name": "Tyranny of King Washington: The Redemption Activation Key",
+      "image": "",
+      "parent": "208480",
+      "store_visible": false,
+      "metadata_file": "208480/DLCs/227148.json"
+    },
+    "268560": {
+      "appid": "268560",
+      "name": "Alan Wake Bonus Materials",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/268560/header.jpg",
+      "parent": "108710",
+      "store_visible": false,
+      "metadata_file": "108710/DLCs/268560.json"
+    },
+    "282510": {
+      "appid": "282510",
+      "name": "Alien: Isolation - Last Survivor",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/282510/header.jpg",
+      "parent": "214490",
+      "store_visible": false,
+      "metadata_file": "214490/DLCs/282510.json"
+    },
+    "282511": {
+      "appid": "282511",
+      "name": "Alien: Isolation – Crew Expendable",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/282511/header.jpg",
+      "parent": "214490",
+      "store_visible": false,
+      "metadata_file": "214490/DLCs/282511.json"
+    },
+    "282512": {
+      "appid": "282512",
+      "name": "Alien: Isolation - Corporate Lockdown",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/282512/header.jpg",
+      "parent": "214490",
+      "store_visible": false,
+      "metadata_file": "214490/DLCs/282512.json"
+    },
+    "282513": {
+      "appid": "282513",
+      "name": "Alien: Isolation Retail – DLC: Trauma",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/282513/header.jpg",
+      "parent": "214490",
+      "store_visible": false,
+      "metadata_file": "214490/DLCs/282513.json"
+    },
+    "282514": {
+      "appid": "282514",
+      "name": "Alien: Isolation Retail – DLC: Safe Haven",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/282514/header.jpg",
+      "parent": "214490",
+      "store_visible": false,
+      "metadata_file": "214490/DLCs/282514.json"
+    },
+    "282515": {
+      "appid": "282515",
+      "name": "Alien: Isolation - Lost Contact",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/282515/header.jpg",
+      "parent": "214490",
+      "store_visible": false,
+      "metadata_file": "214490/DLCs/282515.json"
+    },
+    "282516": {
+      "appid": "282516",
+      "name": "Alien: Isolation – The Trigger",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/282516/header.jpg",
+      "parent": "214490",
+      "store_visible": false,
+      "metadata_file": "214490/DLCs/282516.json"
+    },
+    "324020": {
+      "appid": "324020",
+      "name": "Alien: Isolation - Season Pass",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/324020/header.jpg",
+      "parent": "214490",
+      "store_visible": false,
+      "metadata_file": "214490/DLCs/324020.json"
+    },
+    "324030": {
+      "appid": "324030",
+      "name": "Alien: Isolation - Deluxe Edition DLC",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/324030/header.jpg",
+      "parent": "214490",
+      "store_visible": false,
+      "metadata_file": "214490/DLCs/324030.json"
+    },
+    "339030": {
+      "appid": "339030",
+      "name": "Assassin's Creed Rogue - Templar Legacy Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/339030/header.jpg",
+      "parent": "311560",
+      "store_visible": false,
+      "metadata_file": "311560/DLCs/339030.json"
+    },
+    "339031": {
+      "appid": "339031",
+      "name": "Assassin's Creed Rogue – Activities Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/339031/header.jpg",
+      "parent": "311560",
+      "store_visible": false,
+      "metadata_file": "311560/DLCs/339031.json"
+    },
+    "339032": {
+      "appid": "339032",
+      "name": "Assassin's Creed Rogue – Collectibles Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/339032/header.jpg",
+      "parent": "311560",
+      "store_visible": false,
+      "metadata_file": "311560/DLCs/339032.json"
+    },
+    "339033": {
+      "appid": "339033",
+      "name": "Assassin's Creed Rogue – Resources Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/339033/header.jpg",
+      "parent": "311560",
+      "store_visible": false,
+      "metadata_file": "311560/DLCs/339033.json"
+    },
+    "339034": {
+      "appid": "339034",
+      "name": "Assassin's Creed Rogue – Technology Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/339034/header.jpg",
+      "parent": "311560",
+      "store_visible": false,
+      "metadata_file": "311560/DLCs/339034.json"
+    },
+    "352920": {
+      "appid": "352920",
+      "name": "AC Rogue pre-order WW - Uplay activation",
+      "image": "",
+      "parent": "311560",
+      "store_visible": false,
+      "metadata_file": "311560/DLCs/352920.json"
+    },
+    "352921": {
+      "appid": "352921",
+      "name": "AC Rogue pre-order RU - Uplay activation",
+      "image": "",
+      "parent": "311560",
+      "store_visible": false,
+      "metadata_file": "311560/DLCs/352921.json"
+    },
+    "352922": {
+      "appid": "352922",
+      "name": "AC Rogue pre-order ASIA - Uplay activation",
+      "image": "",
+      "parent": "311560",
+      "store_visible": false,
+      "metadata_file": "311560/DLCs/352922.json"
+    },
+    "352923": {
+      "appid": "352923",
+      "name": "AC Rogue Deluxe WW - Uplay activation",
+      "image": "",
+      "parent": "311560",
+      "store_visible": false,
+      "metadata_file": "311560/DLCs/352923.json"
+    },
+    "352924": {
+      "appid": "352924",
+      "name": "AC Rogue Deluxe RU - Uplay activation",
+      "image": "",
+      "parent": "311560",
+      "store_visible": false,
+      "metadata_file": "311560/DLCs/352924.json"
+    },
+    "352925": {
+      "appid": "352925",
+      "name": "AC Rogue Deluxe ASIA - Uplay activation",
+      "image": "",
+      "parent": "311560",
+      "store_visible": false,
+      "metadata_file": "311560/DLCs/352925.json"
+    },
+    "352926": {
+      "appid": "352926",
+      "name": "AC Rogue WW - Uplay activation",
+      "image": "",
+      "parent": "311560",
+      "store_visible": false,
+      "metadata_file": "311560/DLCs/352926.json"
+    },
+    "352927": {
+      "appid": "352927",
+      "name": "AC Rogue RU - Uplay activation",
+      "image": "",
+      "parent": "311560",
+      "store_visible": false,
+      "metadata_file": "311560/DLCs/352927.json"
+    },
+    "352928": {
+      "appid": "352928",
+      "name": "AC Rogue ASIA - Uplay activation",
+      "image": "",
+      "parent": "311560",
+      "store_visible": false,
+      "metadata_file": "311560/DLCs/352928.json"
+    },
+    "352940": {
+      "appid": "352940",
+      "name": "AC Rogue Activities Pack - Uplay Activation",
+      "image": "",
+      "parent": "311560",
+      "store_visible": false,
+      "metadata_file": "311560/DLCs/352940.json"
+    },
+    "352941": {
+      "appid": "352941",
+      "name": "AC Rogue Collectibles Pack - Uplay Activation",
+      "image": "",
+      "parent": "311560",
+      "store_visible": false,
+      "metadata_file": "311560/DLCs/352941.json"
+    },
+    "352942": {
+      "appid": "352942",
+      "name": "AC Rogue Resources Pack - Uplay Activation",
+      "image": "",
+      "parent": "311560",
+      "store_visible": false,
+      "metadata_file": "311560/DLCs/352942.json"
+    },
+    "352943": {
+      "appid": "352943",
+      "name": "AC Rogue Technology Pack - Uplay Activation",
+      "image": "",
+      "parent": "311560",
+      "store_visible": false,
+      "metadata_file": "311560/DLCs/352943.json"
+    },
+    "352944": {
+      "appid": "352944",
+      "name": "AC Rogue Templar Legacy Pack - Uplay Activation",
+      "image": "",
+      "parent": "311560",
+      "store_visible": false,
+      "metadata_file": "311560/DLCs/352944.json"
+    },
+    "389110": {
+      "appid": "389110",
+      "name": "",
+      "image": "",
+      "parent": "12120",
+      "store_visible": false,
+      "metadata_file": ""
+    },
+    "389550": {
+      "appid": "389550",
+      "name": "",
+      "image": "",
+      "parent": "12120",
+      "store_visible": false,
+      "metadata_file": ""
+    },
+    "404090": {
+      "appid": "404090",
+      "name": "Fallout 4 Season Pass",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/404090/header.jpg",
+      "parent": "377160",
+      "store_visible": false,
+      "metadata_file": "377160/DLCs/404090.json"
+    },
+    "435870": {
+      "appid": "435870",
+      "name": "Fallout 4 - Automatron",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/435870/header.jpg",
+      "parent": "377160",
+      "store_visible": false,
+      "metadata_file": "377160/DLCs/435870.json"
+    },
+    "435880": {
+      "appid": "435880",
+      "name": "Fallout 4 - Wasteland Workshop",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/435880/header.jpg",
+      "parent": "377160",
+      "store_visible": false,
+      "metadata_file": "377160/DLCs/435880.json"
+    },
+    "435881": {
+      "appid": "435881",
+      "name": "Fallout 4 - Far Harbor",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/435881/header.jpg",
+      "parent": "377160",
+      "store_visible": false,
+      "metadata_file": "377160/DLCs/435881.json"
+    },
+    "480630": {
+      "appid": "480630",
+      "name": "Fallout 4 - Contraptions Workshop",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/480630/header.jpg",
+      "parent": "377160",
+      "store_visible": false,
+      "metadata_file": "377160/DLCs/480630.json"
+    },
+    "480631": {
+      "appid": "480631",
+      "name": "Fallout 4 - Vault-Tec Workshop",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/480631/header.jpg",
+      "parent": "377160",
+      "store_visible": false,
+      "metadata_file": "377160/DLCs/480631.json"
+    },
+    "490650": {
+      "appid": "490650",
+      "name": "Fallout 4 - Nuka-World",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/490650/header.jpg",
+      "parent": "377160",
+      "store_visible": false,
+      "metadata_file": "377160/DLCs/490650.json"
+    },
+    "540810": {
+      "appid": "540810",
+      "name": "Fallout 4 - High Resolution Texture Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/540810/header.jpg",
+      "parent": "377160",
+      "store_visible": false,
+      "metadata_file": "377160/DLCs/540810.json"
+    },
+    "598110": {
+      "appid": "598110",
+      "name": "Fallout 4 - Creations",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/598110/header.jpg",
+      "parent": "377160",
+      "store_visible": false,
+      "metadata_file": "377160/DLCs/598110.json"
+    },
+    "817550": {
+      "appid": "817550",
+      "name": "Jurassic World Evolution - Deluxe DLC",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/817550/header.jpg",
+      "parent": "648350",
+      "store_visible": false,
+      "metadata_file": "648350/DLCs/817550.json"
+    },
+    "817560": {
+      "appid": "817560",
+      "name": "Jurassic World Evolution - Pre-order Content",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/817560/header.jpg",
+      "parent": "648350",
+      "store_visible": false,
+      "metadata_file": "648350/DLCs/817560.json"
+    },
+    "953940": {
+      "appid": "953940",
+      "name": "Jurassic World Evolution: Secrets of Dr Wu",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/953940/header.jpg",
+      "parent": "648350",
+      "store_visible": false,
+      "metadata_file": "648350/DLCs/953940.json"
+    },
+    "965420": {
+      "appid": "965420",
+      "name": "Jurassic World Evolution - JingleJam",
+      "image": "",
+      "parent": "648350",
+      "store_visible": false,
+      "metadata_file": "648350/DLCs/965420.json"
+    },
+    "979930": {
+      "appid": "979930",
+      "name": "Jurassic World Evolution: Cretaceous Dinosaur Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/979930/header.jpg",
+      "parent": "648350",
+      "store_visible": false,
+      "metadata_file": "648350/DLCs/979930.json"
+    },
+    "985980": {
+      "appid": "985980",
+      "name": "",
+      "image": "",
+      "parent": "911400",
+      "store_visible": false,
+      "metadata_file": ""
+    },
+    "988470": {
+      "appid": "988470",
+      "name": "Jurassic World Evolution: Carnivore Dinosaur Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/988470/header.jpg",
+      "parent": "648350",
+      "store_visible": false,
+      "metadata_file": "648350/DLCs/988470.json"
+    },
+    "1028430": {
+      "appid": "1028430",
+      "name": "Jurassic World Evolution: Claire's Sanctuary",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1028430/header.jpg",
+      "parent": "648350",
+      "store_visible": false,
+      "metadata_file": "648350/DLCs/1028430.json"
+    },
+    "1107760": {
+      "appid": "1107760",
+      "name": "Jurassic World Evolution: Herbivore Dinosaur Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1107760/header.jpg",
+      "parent": "648350",
+      "store_visible": false,
+      "metadata_file": "648350/DLCs/1107760.json"
+    },
+    "1144410": {
+      "appid": "1144410",
+      "name": "Jurassic World Evolution: Return To Jurassic Park",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1144410/header.jpg",
+      "parent": "648350",
+      "store_visible": false,
+      "metadata_file": "648350/DLCs/1144410.json"
+    },
+    "1144420": {
+      "appid": "1144420",
+      "name": "Jurassic World Evolution: Raptor Squad Skin Collection",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1144420/header.jpg",
+      "parent": "648350",
+      "store_visible": false,
+      "metadata_file": "648350/DLCs/1144420.json"
+    },
+    "1178730": {
+      "appid": "1178730",
+      "name": "STAR WARS Jedi: Fallen Order - Deluxe Edition Content",
+      "image": "",
+      "parent": "1172380",
+      "store_visible": false,
+      "metadata_file": "1172380/DLCs/1178730.json"
+    },
+    "1179140": {
+      "appid": "1179140",
+      "name": "STAR WARS Jedi: Fallen Order Deluxe Edition Key",
+      "image": "",
+      "parent": "1172380",
+      "store_visible": false,
+      "metadata_file": "1172380/DLCs/1179140.json"
+    },
+    "1179141": {
+      "appid": "1179141",
+      "name": "STAR WARS Jedi: Fallen Order Deluxe Edition Pre-Purchase Key",
+      "image": "",
+      "parent": "1172380",
+      "store_visible": false,
+      "metadata_file": "1172380/DLCs/1179141.json"
+    },
+    "1179142": {
+      "appid": "1179142",
+      "name": "STAR WARS Jedi: Fallen Order Key",
+      "image": "",
+      "parent": "1172380",
+      "store_visible": false,
+      "metadata_file": "1172380/DLCs/1179142.json"
+    },
+    "1179200": {
+      "appid": "1179200",
+      "name": "STAR WARS Jedi: Fallen Order Pre-Purchase Key",
+      "image": "",
+      "parent": "1172380",
+      "store_visible": false,
+      "metadata_file": "1172380/DLCs/1179200.json"
+    },
+    "1192320": {
+      "appid": "1192320",
+      "name": "STAR WARS Jedi: Fallen Order Pre-Purchase Content Key",
+      "image": "",
+      "parent": "1172380",
+      "store_visible": false,
+      "metadata_file": "1172380/DLCs/1192320.json"
+    },
+    "1363540": {
+      "appid": "1363540",
+      "name": "DIRT 5 - Gameplay Booster Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1363540/header.jpg",
+      "parent": "1038250",
+      "store_visible": false,
+      "metadata_file": "1038250/DLCs/1363540.json"
+    },
+    "1363591": {
+      "appid": "1363591",
+      "name": "",
+      "image": "",
+      "parent": "1038250",
+      "store_visible": false,
+      "metadata_file": ""
+    },
+    "1379260": {
+      "appid": "1379260",
+      "name": "DIRT 5 - Year 1 Upgrade",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1379260/header.jpg",
+      "parent": "1038250",
+      "store_visible": false,
+      "metadata_file": "1038250/DLCs/1379260.json"
+    },
+    "1379261": {
+      "appid": "1379261",
+      "name": "DIRT 5 - Ford F-150 Raptor PreRunner by Deberti Design",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1379261/header.jpg",
+      "parent": "1038250",
+      "store_visible": false,
+      "metadata_file": "1038250/DLCs/1379261.json"
+    },
+    "1398190": {
+      "appid": "1398190",
+      "name": "",
+      "image": "",
+      "parent": "1038250",
+      "store_visible": false,
+      "metadata_file": ""
+    },
+    "1469470": {
+      "appid": "1469470",
+      "name": "",
+      "image": "",
+      "parent": "1038250",
+      "store_visible": false,
+      "metadata_file": ""
+    },
+    "1469471": {
+      "appid": "1469471",
+      "name": "",
+      "image": "",
+      "parent": "1038250",
+      "store_visible": false,
+      "metadata_file": ""
+    },
+    "1516260": {
+      "appid": "1516260",
+      "name": "DIRT 5 - Energy Content Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1516260/header.jpg",
+      "parent": "1038250",
+      "store_visible": false,
+      "metadata_file": "1038250/DLCs/1516260.json"
+    },
+    "1517270": {
+      "appid": "1517270",
+      "name": "DIRT 5 - Uproar Content Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1517270/header.jpg",
+      "parent": "1038250",
+      "store_visible": false,
+      "metadata_file": "1038250/DLCs/1517270.json"
+    },
+    "1633610": {
+      "appid": "1633610",
+      "name": "DIRT 5 - Super Size Content Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1633610/header.jpg",
+      "parent": "1038250",
+      "store_visible": false,
+      "metadata_file": "1038250/DLCs/1633610.json"
+    },
+    "1690420": {
+      "appid": "1690420",
+      "name": "DIRT 5 - Wild Spirits Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1690420/header.jpg",
+      "parent": "1038250",
+      "store_visible": false,
+      "metadata_file": "1038250/DLCs/1690420.json"
+    },
+    "2667910": {
+      "appid": "2667910",
+      "name": "Dead Island 2 - Kingdom Come: Deliverance II Weapons Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2667910/header.jpg",
+      "parent": "934700",
+      "store_visible": false,
+      "metadata_file": "934700/DLCs/2667910.json"
+    },
+    "2813000": {
+      "appid": "2813000",
+      "name": "Dead Island 2 - Memories of Banoi Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2813000/header.jpg",
+      "parent": "934700",
+      "store_visible": false,
+      "metadata_file": "934700/DLCs/2813000.json"
+    },
+    "2813010": {
+      "appid": "2813010",
+      "name": "Dead Island 2 - Golden Weapons Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2813010/header.jpg",
+      "parent": "934700",
+      "store_visible": false,
+      "metadata_file": "934700/DLCs/2813010.json"
+    },
+    "2813020": {
+      "appid": "2813020",
+      "name": "Dead Island 2 - Pulp Weapons Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2813020/header.jpg",
+      "parent": "934700",
+      "store_visible": false,
+      "metadata_file": "934700/DLCs/2813020.json"
+    },
+    "2813030": {
+      "appid": "2813030",
+      "name": "Dead Island 2 - Red’s Demise Katana",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2813030/header.jpg",
+      "parent": "934700",
+      "store_visible": false,
+      "metadata_file": "934700/DLCs/2813030.json"
+    },
+    "2813040": {
+      "appid": "2813040",
+      "name": "Dead Island 2 - Character Pack: Silver Star Jacob",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2813040/header.jpg",
+      "parent": "934700",
+      "store_visible": false,
+      "metadata_file": "934700/DLCs/2813040.json"
+    },
+    "2813050": {
+      "appid": "2813050",
+      "name": "Dead Island 2 - Character Pack: Cyber Slayer Amy",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2813050/header.jpg",
+      "parent": "934700",
+      "store_visible": false,
+      "metadata_file": "934700/DLCs/2813050.json"
+    },
+    "2813060": {
+      "appid": "2813060",
+      "name": "Dead Island 2 - Character Pack: Gaelic Queen Dani",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2813060/header.jpg",
+      "parent": "934700",
+      "store_visible": false,
+      "metadata_file": "934700/DLCs/2813060.json"
+    },
+    "2813070": {
+      "appid": "2813070",
+      "name": "Dead Island 2 - Character Pack: Jungle Fantasy Ryan",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2813070/header.jpg",
+      "parent": "934700",
+      "store_visible": false,
+      "metadata_file": "934700/DLCs/2813070.json"
+    },
+    "2813080": {
+      "appid": "2813080",
+      "name": "Dead Island 2 - Character Pack: Steel Horse Carla",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2813080/header.jpg",
+      "parent": "934700",
+      "store_visible": false,
+      "metadata_file": "934700/DLCs/2813080.json"
+    },
+    "2813090": {
+      "appid": "2813090",
+      "name": "Dead Island 2 - Character Pack: Venice Vogue Bruno",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2813090/header.jpg",
+      "parent": "934700",
+      "store_visible": false,
+      "metadata_file": "934700/DLCs/2813090.json"
+    },
+    "2813100": {
+      "appid": "2813100",
+      "name": "Dead Island 2 - Haus",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2813100/header.jpg",
+      "parent": "934700",
+      "store_visible": false,
+      "metadata_file": "934700/DLCs/2813100.json"
+    },
+    "2813110": {
+      "appid": "2813110",
+      "name": "Dead Island 2 - Expansion Pass",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2813110/header.jpg",
+      "parent": "934700",
+      "store_visible": false,
+      "metadata_file": "934700/DLCs/2813110.json"
+    },
+    "2813310": {
+      "appid": "2813310",
+      "name": "Dead Island 2 - SoLA",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2813310/header.jpg",
+      "parent": "934700",
+      "store_visible": false,
+      "metadata_file": "934700/DLCs/2813310.json"
+    },
+    "3228520": {
+      "appid": "3228520",
+      "name": "Clair Obscur: Expedition 33 – Deluxe Edition Upgrade",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3228520/header.jpg",
+      "parent": "1903340",
+      "store_visible": false,
+      "metadata_file": "1903340/DLCs/3228520.json"
+    },
+    "3359740": {
+      "appid": "3359740",
+      "name": "Hello Kitty Island Adventure - Deluxe Edition",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3359740/header.jpg",
+      "parent": "2495100",
+      "store_visible": false,
+      "metadata_file": "2495100/DLCs/3359740.json"
+    },
+    "3657560": {
+      "appid": "3657560",
+      "name": "NBA 2K26 SLAM Edition Bonus Pack Offer",
+      "image": "",
+      "parent": "3472040",
+      "store_visible": false,
+      "metadata_file": "3472040/DLCs/3657560.json"
+    },
+    "3657590": {
+      "appid": "3657590",
+      "name": "NBA 2K26 Pro Pass: Season 1",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3657590/bfafe2a73cb33f9df7592cebc99b41227cb1a4e7/header.jpg",
+      "parent": "3472040",
+      "store_visible": false,
+      "metadata_file": "3472040/DLCs/3657590.json"
+    },
+    "3657600": {
+      "appid": "3657600",
+      "name": "NBA 2K26 Hall of Fame Pass: Season 1",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3657600/e0df148682d7d22ed2407766d88636b3bee21a66/header.jpg",
+      "parent": "3472040",
+      "store_visible": false,
+      "metadata_file": "3472040/DLCs/3657600.json"
+    },
+    "3657610": {
+      "appid": "3657610",
+      "name": "NBA 2K26 MyCAREER Bonus Offer: Season 1",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3657610/cd0134da7ea9f5bbc5e56217323134e7bedee50c/header.jpg",
+      "parent": "3472040",
+      "store_visible": false,
+      "metadata_file": "3472040/DLCs/3657610.json"
+    },
+    "3657620": {
+      "appid": "3657620",
+      "name": "NBA 2K26 MyTEAM Bonus Offer: Season 1",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3657620/40e0b1f388b6acba6e31470c6571b7620de756ec/header.jpg",
+      "parent": "3472040",
+      "store_visible": false,
+      "metadata_file": "3472040/DLCs/3657620.json"
+    },
+    "3657640": {
+      "appid": "3657640",
+      "name": "NBA 2K26 Pro Pass: Season 2",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3657640/e365eef9b63f2da671d09021e1a6dbba1f438d97/header.jpg",
+      "parent": "3472040",
+      "store_visible": false,
+      "metadata_file": "3472040/DLCs/3657640.json"
+    },
+    "3657650": {
+      "appid": "3657650",
+      "name": "NBA 2K26 Hall of Fame Pass: Season 2",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3657650/20da65144b3a5fea864c75ee97ee3522fc37fc35/header.jpg",
+      "parent": "3472040",
+      "store_visible": false,
+      "metadata_file": "3472040/DLCs/3657650.json"
+    },
+    "3657660": {
+      "appid": "3657660",
+      "name": "NBA 2K26 MyCAREER Bonus Offer: Season 2",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3657660/efecbbb397f30495d323a0cc2c078f930552062b/header.jpg",
+      "parent": "3472040",
+      "store_visible": false,
+      "metadata_file": "3472040/DLCs/3657660.json"
+    },
+    "3657670": {
+      "appid": "3657670",
+      "name": "NBA 2K26 MyTEAM Bonus Offer: Season 2",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3657670/fafc3fac202708996f3b88cdfd87c8f6954576f1/header.jpg",
+      "parent": "3472040",
+      "store_visible": false,
+      "metadata_file": "3472040/DLCs/3657670.json"
+    },
+    "3657680": {
+      "appid": "3657680",
+      "name": "NBA 2K26 Pro Pass: Season 3",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3657680/7f815a27675423863601a5e70b0fcdc6b70884bb/header.jpg",
+      "parent": "3472040",
+      "store_visible": false,
+      "metadata_file": "3472040/DLCs/3657680.json"
+    },
+    "3657690": {
+      "appid": "3657690",
+      "name": "NBA 2K26 Hall of Fame Pass: Season 3",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3657690/88af6d8dfd04eb3ca2ddad07cf4c838963dd9c99/header.jpg",
+      "parent": "3472040",
+      "store_visible": false,
+      "metadata_file": "3472040/DLCs/3657690.json"
+    },
+    "3657700": {
+      "appid": "3657700",
+      "name": "NBA 2K26 MyCAREER Bonus Offer: Season 3",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3657700/e75290515820ea2ff2654b0dde7b22c23fd6d47f/header.jpg",
+      "parent": "3472040",
+      "store_visible": false,
+      "metadata_file": "3472040/DLCs/3657700.json"
+    },
+    "3657710": {
+      "appid": "3657710",
+      "name": "NBA 2K26 MyTEAM Bonus Offer: Season 3",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3657710/4a07d0aee3346cfd5538247c7b39c3997a71535d/header.jpg",
+      "parent": "3472040",
+      "store_visible": false,
+      "metadata_file": "3472040/DLCs/3657710.json"
+    },
+    "3657750": {
+      "appid": "3657750",
+      "name": "NBA 2K26 Pro Pass: Season 4",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3657750/f045d53b437885607adf42f20da86163b9e6d62a/header.jpg",
+      "parent": "3472040",
+      "store_visible": false,
+      "metadata_file": "3472040/DLCs/3657750.json"
+    },
+    "3657760": {
+      "appid": "3657760",
+      "name": "NBA 2K26 Hall of Fame Pass: Season 4",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3657760/2d72092f1f4e40128788dd7735445a61d7aeae7d/header.jpg",
+      "parent": "3472040",
+      "store_visible": false,
+      "metadata_file": "3472040/DLCs/3657760.json"
+    },
+    "3657770": {
+      "appid": "3657770",
+      "name": "NBA 2K26 MyCAREER Season 4 Bonus Offer",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3657770/6de2f9456202eeabeaaf2804e69658d91757a429/header.jpg",
+      "parent": "3472040",
+      "store_visible": false,
+      "metadata_file": "3472040/DLCs/3657770.json"
+    },
+    "3657780": {
+      "appid": "3657780",
+      "name": "NBA 2K26 MyTEAM Season 4 Bonus Offer",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3657780/e60697489c285accfad39913f27527cc4918ce8f/header.jpg",
+      "parent": "3472040",
+      "store_visible": false,
+      "metadata_file": "3472040/DLCs/3657780.json"
+    },
+    "3657790": {
+      "appid": "3657790",
+      "name": "NBA 2K26 Pro Pass: Season 5",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3657790/c484f69c6e34e88513dbd1c78a6371476f18fb81/header.jpg",
+      "parent": "3472040",
+      "store_visible": false,
+      "metadata_file": "3472040/DLCs/3657790.json"
+    },
+    "3657800": {
+      "appid": "3657800",
+      "name": "NBA 2K26 Hall of Fame Pass: Season 5",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3657800/41a5477700e2dfee5ab3463dccaab3c15d37b67e/header.jpg",
+      "parent": "3472040",
+      "store_visible": false,
+      "metadata_file": "3472040/DLCs/3657800.json"
+    },
+    "3657810": {
+      "appid": "3657810",
+      "name": "MyCareer Bundle: Season 5",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3657810/a61c78e0d878ceae3bedbb46512cd0d4e2bb5ba4/header.jpg",
+      "parent": "3472040",
+      "store_visible": false,
+      "metadata_file": "3472040/DLCs/3657810.json"
+    },
+    "3657820": {
+      "appid": "3657820",
+      "name": "NBA 2K26 MyTEAM Season 5 Bonus Offer",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3657820/e9c7b44a6928513e371edb0626889a682e5d428d/header.jpg",
+      "parent": "3472040",
+      "store_visible": false,
+      "metadata_file": "3472040/DLCs/3657820.json"
+    },
+    "3657840": {
+      "appid": "3657840",
+      "name": "NBA 2K26 Pro Pass: Season 6",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3657840/e530277d794221f3ec70e69e75a87553fccdd1e6/header.jpg",
+      "parent": "3472040",
+      "store_visible": false,
+      "metadata_file": "3472040/DLCs/3657840.json"
+    },
+    "3657850": {
+      "appid": "3657850",
+      "name": "NBA 2K26 Hall of Fame Pass: Season 6",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3657850/d70dd3ae69d093a68c650beaf8fd19ef060a18dc/header.jpg",
+      "parent": "3472040",
+      "store_visible": false,
+      "metadata_file": "3472040/DLCs/3657850.json"
+    },
+    "3657860": {
+      "appid": "3657860",
+      "name": "NBA 2K26 MyCAREER Season 6 Bonus Offer",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3657860/80048ff645a0ebebae6fac77414e052d9259c426/header.jpg",
+      "parent": "3472040",
+      "store_visible": false,
+      "metadata_file": "3472040/DLCs/3657860.json"
+    },
+    "3657870": {
+      "appid": "3657870",
+      "name": "NBA 2K26 MyTEAM Season 6 Bonus Offer",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3657870/07c11c1bece98972398369f33886cb802bdb0f85/header.jpg",
+      "parent": "3472040",
+      "store_visible": false,
+      "metadata_file": "3472040/DLCs/3657870.json"
+    },
+    "3657880": {
+      "appid": "3657880",
+      "name": "NBA 2K26 Pro Pass: Season 7",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3657880/9695d6597d303d75404d9efc5ebbc54519206ff1/header.jpg",
+      "parent": "3472040",
+      "store_visible": false,
+      "metadata_file": "3472040/DLCs/3657880.json"
+    },
+    "3657890": {
+      "appid": "3657890",
+      "name": "NBA 2K26 Hall of Fame Pass: Season 7",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3657890/30001ff0214108bb6c466c7fff47e0b52e6784e9/header.jpg",
+      "parent": "3472040",
+      "store_visible": false,
+      "metadata_file": "3472040/DLCs/3657890.json"
+    },
+    "3657900": {
+      "appid": "3657900",
+      "name": "NBA 2K26 MyCAREER Season 7 Bonus Offer",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3657900/09a56255198a094293e7d5f6b620516d652524b8/header.jpg",
+      "parent": "3472040",
+      "store_visible": false,
+      "metadata_file": "3472040/DLCs/3657900.json"
+    },
+    "3657910": {
+      "appid": "3657910",
+      "name": "NBA 2K26 MyTEAM Season 7 Bonus Offer",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3657910/741cb8680fe2a815e6ecbcd8eff4729e6fae9210/header.jpg",
+      "parent": "3472040",
+      "store_visible": false,
+      "metadata_file": "3472040/DLCs/3657910.json"
+    },
+    "3657920": {
+      "appid": "3657920",
+      "name": "NBA 2K26 Pro Pass: Season 8",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3657920/a94743dbbbd7aacb648b9689da6536d8a43bd9bb/header.jpg",
+      "parent": "3472040",
+      "store_visible": false,
+      "metadata_file": "3472040/DLCs/3657920.json"
+    },
+    "3657930": {
+      "appid": "3657930",
+      "name": "NBA 2K26 Hall of Fame Pass: Season 8",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3657930/90581c7e2e73e865b766f38b21d88410b1caebf7/header.jpg",
+      "parent": "3472040",
+      "store_visible": false,
+      "metadata_file": "3472040/DLCs/3657930.json"
+    },
+    "3657940": {
+      "appid": "3657940",
+      "name": "NBA 2K26 MyCAREER Season 8 Bonus Offer",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3657940/82fd1f479162847c376124f6eed2dacfbe9fe12d/header.jpg",
+      "parent": "3472040",
+      "store_visible": false,
+      "metadata_file": "3472040/DLCs/3657940.json"
+    },
+    "3657950": {
+      "appid": "3657950",
+      "name": "NBA 2K26 MyTEAM Season 8 Bonus Offer",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3657950/30e9f2cf7cf2f6143cd0d59593eede6ed73034c2/header.jpg",
+      "parent": "3472040",
+      "store_visible": false,
+      "metadata_file": "3472040/DLCs/3657950.json"
+    },
+    "3657960": {
+      "appid": "3657960",
+      "name": "NBA 2K26 Pro Pass: Season 9",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3657960/4584f3a45c64d3165aa829388312799e14177549/header.jpg",
+      "parent": "3472040",
+      "store_visible": false,
+      "metadata_file": "3472040/DLCs/3657960.json"
+    },
+    "3657970": {
+      "appid": "3657970",
+      "name": "NBA 2K26 Hall of Fame Pass: Season 9",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3657970/619d4f4d9d0fb233f4a17afeab2eb6dc4ab954b1/header.jpg",
+      "parent": "3472040",
+      "store_visible": false,
+      "metadata_file": "3472040/DLCs/3657970.json"
+    },
+    "3657980": {
+      "appid": "3657980",
+      "name": "My Career Bundle: Season 9",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3657980/8d1862ac272d79cd122b7d78ee6a04ecb713121d/header.jpg",
+      "parent": "3472040",
+      "store_visible": false,
+      "metadata_file": "3472040/DLCs/3657980.json"
+    },
+    "3657990": {
+      "appid": "3657990",
+      "name": "MyTeam Bundle: Season 9",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3657990/14a2e44000ae34bb6ef42a6d920f5c240cf9d8a4/header.jpg",
+      "parent": "3472040",
+      "store_visible": false,
+      "metadata_file": "3472040/DLCs/3657990.json"
+    },
+    "3825290": {
+      "appid": "3825290",
+      "name": "High Resolution Textures",
+      "image": "",
+      "parent": "3472040",
+      "store_visible": false,
+      "metadata_file": "3472040/DLCs/3825290.json"
+    },
+    "3868650": {
+      "appid": "3868650",
+      "name": "Fallout 4 - Creations Bundle",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3868650/66187580a23f95122b8a42e05be7950564913914/header.jpg",
+      "parent": "377160",
+      "store_visible": false,
+      "metadata_file": "377160/DLCs/3868650.json"
+    },
+    "3890520": {
+      "appid": "3890520",
+      "name": "Hello Kitty Island Adventure - Wheatflour Wonderland",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3890520/5dd88e929c5d228d3af03ed67dc8b6070056bd10/header.jpg",
+      "parent": "2495100",
+      "store_visible": false,
+      "metadata_file": "2495100/DLCs/3890520.json"
+    },
+    "3901020": {
+      "appid": "3901020",
+      "name": "NBA 2K26 35,000 Virtual Currency Pack",
+      "image": "",
+      "parent": "3472040",
+      "store_visible": false,
+      "metadata_file": "3472040/DLCs/3901020.json"
+    },
+    "3901030": {
+      "appid": "3901030",
+      "name": "NBA 2K26 75,000 Virtual Currency Pack",
+      "image": "",
+      "parent": "3472040",
+      "store_visible": false,
+      "metadata_file": "3472040/DLCs/3901030.json"
+    },
+    "4041510": {
+      "appid": "4041510",
+      "name": "EA SPORTS™ College Football 27",
+      "image": "",
+      "parent": "4032350",
+      "store_visible": false,
+      "metadata_file": "4032350/DLCs/4041510.json"
+    },
+    "4055140": {
+      "appid": "4055140",
+      "name": "Hello Kitty Island Adventure - City Town",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4055140/90d78a804eee7408aa2dac80d15cee0d0fbe295a/header.jpg",
+      "parent": "2495100",
+      "store_visible": false,
+      "metadata_file": "2495100/DLCs/4055140.json"
+    },
+    "4113840": {
+      "appid": "4113840",
+      "name": "EA SPORTS™ College Football 27 Deluxe Edition Pre-order Content",
+      "image": "",
+      "parent": "4032350",
+      "store_visible": false,
+      "metadata_file": "4032350/DLCs/4113840.json"
+    },
+    "4113850": {
+      "appid": "4113850",
+      "name": "EA SPORTS™ College Football 27 Deluxe Edition Pre-order Content",
+      "image": "",
+      "parent": "4032350",
+      "store_visible": false,
+      "metadata_file": "4032350/DLCs/4113850.json"
+    },
+    "4113870": {
+      "appid": "4113870",
+      "name": "EA SPORTS™ College Football 27 - College Football Points",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4113870/d5ce84e1a3e92a302a73ed5fceccb516d16af0ae/header.jpg",
+      "parent": "4032350",
+      "store_visible": false,
+      "metadata_file": "4032350/DLCs/4113870.json"
+    },
+    "4115150": {
+      "appid": "4115150",
+      "name": "College Football 27 - EA Play Trial Key",
+      "image": "",
+      "parent": "4032350",
+      "store_visible": false,
+      "metadata_file": "4032350/DLCs/4115150.json"
+    },
+    "4407660": {
+      "appid": "4407660",
+      "name": "EA SPORTS FC™ 27 Lite",
+      "image": "",
+      "parent": "4407750",
+      "store_visible": false,
+      "metadata_file": "4407750/DLCs/4407660.json"
+    },
+    "4681330": {
+      "appid": "4681330",
+      "name": "EA SPORTS™ MVP Bundle Pre-order Content",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4681330/d20328fd823c95a93c03176a028f47d854c76002/header.jpg",
+      "parent": "4032350",
+      "store_visible": false,
+      "metadata_file": "4032350/DLCs/4681330.json"
+    },
+    "4681570": {
+      "appid": "4681570",
+      "name": "EA SPORTS™ College Football 27 Deluxe Edition",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4681570/f12d735e8edf6dea1d7d4bf3344b117bcc844987/header.jpg",
+      "parent": "4032350",
+      "store_visible": false,
+      "metadata_file": "4032350/DLCs/4681570.json"
+    },
+    "4709850": {
+      "appid": "4709850",
+      "name": "EA SPORTS™ MVP Bundle (College Football 27 Deluxe Edition & Madden NFL 27 Deluxe Edition) Content",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4709850/fdb7295d249daced4b13af6eb054901ea185be1b/header.jpg",
+      "parent": "4032350",
+      "store_visible": false,
+      "metadata_file": "4032350/DLCs/4709850.json"
+    },
+    "4724090": {
+      "appid": "4724090",
+      "name": "Hello Kitty Island Adventure - Tea Garden",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4724090/8ee0da5f7e9393c07c37e6bf177fcc954a7066de/header.jpg",
+      "parent": "2495100",
+      "store_visible": false,
+      "metadata_file": "2495100/DLCs/4724090.json"
+    },
+    "4765430": {
+      "appid": "4765430",
+      "name": "NBA 2K26 LTO Pre-Order Bonus",
+      "image": "",
+      "parent": "3472040",
+      "store_visible": false,
+      "metadata_file": "3472040/DLCs/4765430.json"
+    },
+    "5307520": {
+      "appid": "5307520",
+      "name": "DREADMOOR Supporter Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5307520/dc6701920b16c9efa1068a77f5ed0784018e5b86/header.jpg",
+      "parent": "3629430",
+      "store_visible": false,
+      "metadata_file": "3629430/DLCs/5307520.json"
+    }
+  }
+}

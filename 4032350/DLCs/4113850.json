@@ -1,0 +1,46 @@
+{
+  "_change_number": 37073433,
+  "_missing_token": false,
+  "_sha": "3dbea82627ecc5d2983022f159ef13bf9145a69d",
+  "_size": 2481,
+  "appid": "4113850",
+  "common": {
+    "exfgls": "9",
+    "gameid": "4113850",
+    "name": "EA SPORTS™ College Football 27 Deluxe Edition Pre-order Content",
+    "name_localized": {
+      "brazilian": "Conteúdo de reserva do EA SPORTS™ College Football 27 Deluxe Edition",
+      "czech": "EA SPORTS™ College Football 27 Deluxe Edition – předobjednávkový obsah",
+      "danish": "EA SPORTS™ College Football 27 Deluxe Edition – forudbestillingsindhold",
+      "dutch": "EA SPORTS™ College Football 27 Deluxe Edition Pre-ordercontent",
+      "english": "EA SPORTS™ College Football 27 Deluxe Edition Pre-order Content",
+      "finnish": "EA SPORTS™ College Football 27 Deluxe Edition -ennakkotilaussisältö",
+      "french": "Contenu de précommande EA SPORTS™ College Football 27 : Édition Deluxe",
+      "german": "EA SPORTS™ College Football 27 Deluxe Edition – Vorbestellungsinhalte",
+      "italian": "Contenuti pre-ordine EA SPORTS™ College Football 27 Deluxe Edition",
+      "japanese": "『EA SPORTS™ College Football 27』デラックスエディション 先行予約コンテンツ",
+      "koreana": "EA SPORTS™ College Football 27 Deluxe Edition 예약 구매 콘텐츠",
+      "latam": "Contenido de reserva de la EA SPORTS™ College Football 27 Edición Deluxe",
+      "norwegian": "EA SPORTS™ College Football 27 Deluxe Edition-forhåndsbestillingsinnhold",
+      "polish": "EA SPORTS™ College Football 27 – zawartość przedsprzedażowa z Edycji Deluxe",
+      "portuguese": "EA SPORTS™ College Football 27 Edição Deluxe Conteúdo de Reserva",
+      "russian": "Контент предзаказа EA SPORTS™ College Football 27 издания Deluxe",
+      "schinese": "《EA SPORTS™ College Football 27》豪华版预购内容",
+      "spanish": "Contenido de reserva de EA SPORTS™ College Football 27 Edición Deluxe",
+      "swedish": "EA SPORTS™ College Football 27 Deluxe Edition, förbokningsinnehåll",
+      "tchinese": "《EA SPORTS™ College Football 27》豪華版預購內容",
+      "thai": "EA SPORTS™ College Football 27 Deluxe Edition Pre-order Content",
+      "turkish": "EA SPORTS™ College Football 27 Deluxe Edition Ön Sipariş İçeriği",
+      "ukrainian": "Вміст попереднього замовлення EA SPORTS™ College Football 27 Deluxe Edition"
+    },
+    "parent": "4032350",
+    "releasestate": "released",
+    "store_tags": {},
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "4032350",
+    "mustownapptopurchase": "4032350"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "_change_number": 31803123,
+  "_missing_token": false,
+  "_sha": "fbbb5535eb8881d85a392f21a6f958630fac479b",
+  "_size": 285,
+  "appid": "3825290",
+  "common": {
+    "gameid": "3825290",
+    "name": "High Resolution Textures",
+    "parent": "3472040",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "3472040",
+    "mustownapptopurchase": "3472040"
+  }
+}

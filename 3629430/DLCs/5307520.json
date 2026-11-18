@@ -1,0 +1,128 @@
+{
+  "_change_number": 40837591,
+  "_missing_token": false,
+  "_sha": "5b2d22d5f7c2f4d12ef69b2622689f47419f36a4",
+  "_size": 2416,
+  "appid": "5307520",
+  "common": {
+    "associations": {
+      "0": {
+        "name": "Dream Dock",
+        "type": "developer"
+      }
+    },
+    "category": {
+      "category_2": "1",
+      "category_22": "1",
+      "category_23": "1",
+      "category_28": "1",
+      "category_55": "1",
+      "category_56": "1",
+      "category_57": "1",
+      "category_58": "1"
+    },
+    "content_descriptors": {
+      "0": "2",
+      "1": "5"
+    },
+    "content_descriptors_including_dlc": {
+      "0": "2",
+      "1": "5"
+    },
+    "controller_support": "full",
+    "gameid": "5307520",
+    "genres": {
+      "0": "1",
+      "1": "25",
+      "2": "23",
+      "3": "3",
+      "4": "28"
+    },
+    "header_image": {
+      "english": "dc6701920b16c9efa1068a77f5ed0784018e5b86/header.jpg"
+    },
+    "name": "DREADMOOR Supporter Pack",
+    "osarch": "64",
+    "oscpu": "",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "3629430",
+    "primary_genre": "1",
+    "releasestate": "released",
+    "review_percentage": "100",
+    "review_score": "7",
+    "small_capsule": {
+      "english": "6ff4cbd99518f2f670ca122bc26f1794205e4e24/capsule_231x87.jpg"
+    },
+    "store_asset_mtime": "1793901763",
+    "store_screenshot": "f50317b61e7343f61bad710b500ce84da7fec6b0/ss_f50317b61e7343f61bad710b500ce84da7fec6b0.jpg",
+    "store_tags": {
+      "0": "19",
+      "1": "21",
+      "2": "122",
+      "3": "492",
+      "4": "599",
+      "5": "4345"
+    },
+    "supported_languages": {
+      "brazilian": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "english": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "french": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "german": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "italian": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "japanese": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "koreana": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "polish": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "russian": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "schinese": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "spanish": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "tchinese": {
+        "subtitles": "true",
+        "supported": "true"
+      }
+    },
+    "type": "DLC"
+  },
+  "extended": {
+    "developer": "Dream Dock",
+    "dlcavailableonstore": "1",
+    "dlcforappid": "3629430",
+    "homepage": "https://www.dream-dock.com",
+    "mustownapptopurchase": "3629430"
+  }
+}

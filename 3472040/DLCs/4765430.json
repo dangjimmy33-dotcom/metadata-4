@@ -1,0 +1,18 @@
+{
+  "_change_number": 37600138,
+  "_missing_token": false,
+  "_sha": "b5803676448fa348eb81574b1ae385af2766117f",
+  "_size": 253,
+  "appid": "4765430",
+  "common": {
+    "gameid": "4765430",
+    "name": "NBA 2K26 LTO Pre-Order Bonus",
+    "parent": "3472040",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "3472040"
+  }
+}

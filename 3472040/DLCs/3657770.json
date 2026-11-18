@@ -1,0 +1,156 @@
+{
+  "_change_number": 34259759,
+  "_missing_token": false,
+  "_sha": "88a7a9581a9820f168af997f6b9ddbe813266b9f",
+  "_size": 3939,
+  "appid": "3657770",
+  "common": {
+    "app_retired_publisher_request": "1",
+    "associations": {
+      "0": {
+        "name": "Visual Concepts",
+        "type": "developer"
+      },
+      "1": {
+        "name": "2K",
+        "type": "publisher"
+      },
+      "2": {
+        "name": "NBA 2K",
+        "type": "franchise"
+      }
+    },
+    "category": {
+      "category_1": "1",
+      "category_2": "1",
+      "category_22": "1",
+      "category_23": "1",
+      "category_24": "1",
+      "category_35": "1",
+      "category_36": "1",
+      "category_37": "1",
+      "category_38": "1",
+      "category_39": "1",
+      "category_44": "1",
+      "category_49": "1",
+      "category_9": "1"
+    },
+    "exfgls": "7",
+    "gameid": "3657770",
+    "genres": {
+      "0": "18"
+    },
+    "header_image": {
+      "english": "6de2f9456202eeabeaaf2804e69658d91757a429/header.jpg"
+    },
+    "library_assets": {
+      "library_logo": "en"
+    },
+    "library_assets_full": {
+      "library_logo": {
+        "image": {
+          "english": "7851677c3c29e3d90a2c40d87b53e6d1642c8c2f/logo.png"
+        },
+        "image2x": {
+          "english": "7851677c3c29e3d90a2c40d87b53e6d1642c8c2f/logo_2x.png"
+        }
+      }
+    },
+    "name": "NBA 2K26 MyCAREER Season 4 Bonus Offer",
+    "name_localized": {
+      "brazilian": "Oferta de Bônus do MyCAREER do NBA 2K26: 4ª Temporada",
+      "czech": "Bonusová nabídka NBA 2K26 MyCAREER: Season 4",
+      "danish": "NBA 2K26 MyCAREER-bonustilbud: Season 4",
+      "dutch": "NBA 2K26 MyCAREER bonusaanbieding: Season 4",
+      "english": "NBA 2K26 MyCAREER Season 4 Bonus Offer",
+      "french": "Offre bonus Ma CARRIÈRE NBA 2K26 : Saison 4",
+      "german": "NBA 2K26 Meine-KARRIERE-Bonusangebot für Saison 4",
+      "italian": "Offerta bonus La mia CARRIERA NBA 2K26: Stagione 4",
+      "japanese": "『NBA 2K26』マイキャリア追加コンテンツ：シーズン4",
+      "koreana": "NBA 2K26 MyCAREER 보너스 혜택: 시즌 4",
+      "latam": "Oferta de bonificación NBA 2K26 MyCAREER: Temporada 4",
+      "norwegian": "MyCAREER-bonustilbud for NBA 2K26 S4",
+      "portuguese": "Oferta de Bónus MyCAREER NBA 2K26: Temporada 4",
+      "russian": "Бонусное предложение NBA 2K26 MyCAREER Bonus Offer Season 4",
+      "schinese": "《NBA 2K26》辉煌生涯额外奖励：第4季",
+      "spanish": "Oferta de bonificación Mi CARRERA de NBA 2K26: Temporada 4",
+      "swedish": "NBA 2K26 MyCAREER-bonuserbjudande: Season 4",
+      "tchinese": "《NBA 2K26》MyCAREER特典優惠：第4季",
+      "turkish": "NBA 2K26 MyCAREER Bonus Teklifi: Season 4",
+      "ukrainian": "Бонусна пропозиція NBA 2K26 MyCAREER: Season 4"
+    },
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "3472040",
+    "primary_genre": "18",
+    "releasestate": "released",
+    "small_capsule": {
+      "english": "005a2d1705bf124d35fcac0577f222ab70b9b0e3/capsule_231x87.jpg"
+    },
+    "steam_release_date": "1767974499",
+    "store_asset_mtime": "1765566935",
+    "store_screenshot": "f7f401e462d648ab412a9c74d4eae7e3ed6a7934/ss_f7f401e462d648ab412a9c74d4eae7e3ed6a7934.jpg",
+    "store_tags": {
+      "0": "16250",
+      "1": "701",
+      "10": "12472",
+      "11": "4747",
+      "12": "5711",
+      "13": "3843",
+      "14": "4202",
+      "15": "9204",
+      "16": "1685",
+      "17": "7368",
+      "18": "3841",
+      "19": "12095",
+      "2": "1746",
+      "3": "599",
+      "4": "5055",
+      "5": "4191",
+      "6": "3859",
+      "7": "1775",
+      "8": "4182",
+      "9": "7481"
+    },
+    "supported_languages": {
+      "english": {
+        "full_audio": "true",
+        "supported": "true"
+      },
+      "french": {
+        "supported": "true"
+      },
+      "german": {
+        "supported": "true"
+      },
+      "italian": {
+        "supported": "true"
+      },
+      "japanese": {
+        "supported": "true"
+      },
+      "koreana": {
+        "supported": "true"
+      },
+      "schinese": {
+        "supported": "true"
+      },
+      "spanish": {
+        "supported": "true"
+      },
+      "tchinese": {
+        "supported": "true"
+      }
+    },
+    "type": "DLC"
+  },
+  "extended": {
+    "developer": "Visual Concepts",
+    "dlcavailableonstore": "1",
+    "dlcforappid": "3472040",
+    "homepage": "https://www.nba2k.com/",
+    "mustownapptopurchase": "3472040",
+    "publisher": "2K"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "_change_number": 37023325,
+  "_missing_token": false,
+  "_sha": "8c981ad880b0f69afdb024b1995bb2080c913e0a",
+  "_size": 339,
+  "appid": "4115150",
+  "common": {
+    "exfgls": "9",
+    "gameid": "4115150",
+    "name": "College Football 27 - EA Play Trial Key",
+    "parent": "4032350",
+    "releasestate": "released",
+    "store_tags": {},
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "4032350",
+    "mustownapptopurchase": "4032350"
+  }
+}

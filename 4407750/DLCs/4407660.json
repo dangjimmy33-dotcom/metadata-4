@@ -1,0 +1,25 @@
+{
+  "_change_number": 39202277,
+  "_missing_token": false,
+  "_sha": "5fcb68c17d992ac836c749360330f93d431468b9",
+  "_size": 393,
+  "appid": "4407660",
+  "common": {
+    "exfgls": "9",
+    "gameid": "4407660",
+    "name": "EA SPORTS FC™ 27 Lite",
+    "osarch": "",
+    "oscpu": "",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "4407750",
+    "releasestate": "released",
+    "store_tags": {},
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "4407750",
+    "mustownapptopurchase": "4407750"
+  }
+}

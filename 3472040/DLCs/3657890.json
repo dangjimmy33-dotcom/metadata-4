@@ -1,0 +1,138 @@
+{
+  "_change_number": 36865388,
+  "_missing_token": false,
+  "_sha": "539939ac9af16b2a72a701e42439f5879791a8b5",
+  "_size": 3214,
+  "appid": "3657890",
+  "common": {
+    "app_retired_publisher_request": "1",
+    "associations": {
+      "0": {
+        "name": "Visual Concepts",
+        "type": "developer"
+      },
+      "1": {
+        "name": "2K",
+        "type": "publisher"
+      },
+      "2": {
+        "name": "NBA 2K",
+        "type": "franchise"
+      }
+    },
+    "category": {
+      "category_1": "1",
+      "category_2": "1",
+      "category_22": "1",
+      "category_23": "1",
+      "category_24": "1",
+      "category_35": "1",
+      "category_36": "1",
+      "category_37": "1",
+      "category_38": "1",
+      "category_39": "1",
+      "category_44": "1",
+      "category_49": "1",
+      "category_9": "1"
+    },
+    "exfgls": "7",
+    "gameid": "3657890",
+    "genres": {
+      "0": "18"
+    },
+    "header_image": {
+      "english": "30001ff0214108bb6c466c7fff47e0b52e6784e9/header.jpg"
+    },
+    "name": "NBA 2K26 Hall of Fame Pass: Season 7",
+    "name_localized": {
+      "brazilian": "Passe Hall da Fama do NBA 2K26: 7ª Temporada",
+      "french": "Pass Hall of Fame NBA 2K26 : Saison 7",
+      "german": "NBA 2K26 Hall of Fame Pass: Saison 7",
+      "italian": "NBA 2K26 Hall of Fame Pass: Stagione 7",
+      "japanese": "『NBA 2K26』殿堂入りパス：シーズン7",
+      "koreana": "NBA 2K26 명예의 전당 패스: 시즌 7",
+      "latam": "Pase del Salón de la Fama de NBA 2K26: Temporada 7",
+      "norwegian": "NBA 2K26 Hall of Fame Pass: Sesong 7",
+      "portuguese": "Passe Hall of Fame NBA 2K26: Temporada 7",
+      "russian": "Сезонный абонемент NBA 2K26 Hall of Fame Pass: Season 7",
+      "schinese": "《NBA 2K26》名人堂通行证：第7季",
+      "spanish": "Pase del Salón de la Fama de NBA 2K26: Temporada 7",
+      "tchinese": "《NBA 2K26》名人堂通行證：第7季",
+      "ukrainian": "Перепустка NBA 2K26 Hall Of Fame: Season 7"
+    },
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "3472040",
+    "primary_genre": "18",
+    "releasestate": "released",
+    "review_percentage": "7",
+    "review_score": "3",
+    "small_capsule": {
+      "english": "9279ac4cadc89e28dcada7b839602fbc2660efa8/capsule_231x87.jpg"
+    },
+    "steam_release_date": "1778857270",
+    "store_asset_mtime": "1777666355",
+    "store_screenshot": "6b1cc416c98d47661325ef0772efd9882a02011f/ss_6b1cc416c98d47661325ef0772efd9882a02011f.jpg",
+    "store_tags": {
+      "0": "701",
+      "1": "1746",
+      "10": "1775",
+      "11": "5711",
+      "12": "3843",
+      "13": "4202",
+      "14": "44868",
+      "15": "7368",
+      "16": "1685",
+      "17": "3841",
+      "18": "16250",
+      "2": "599",
+      "3": "5055",
+      "4": "4191",
+      "5": "3859",
+      "6": "7481",
+      "7": "4182",
+      "8": "4747",
+      "9": "12472"
+    },
+    "supported_languages": {
+      "english": {
+        "full_audio": "true",
+        "supported": "true"
+      },
+      "french": {
+        "supported": "true"
+      },
+      "german": {
+        "supported": "true"
+      },
+      "italian": {
+        "supported": "true"
+      },
+      "japanese": {
+        "supported": "true"
+      },
+      "koreana": {
+        "supported": "true"
+      },
+      "schinese": {
+        "supported": "true"
+      },
+      "spanish": {
+        "supported": "true"
+      },
+      "tchinese": {
+        "supported": "true"
+      }
+    },
+    "type": "DLC"
+  },
+  "extended": {
+    "developer": "Visual Concepts",
+    "dlcavailableonstore": "1",
+    "dlcforappid": "3472040",
+    "homepage": "https://www.nba2k.com/",
+    "mustownapptopurchase": "3472040",
+    "publisher": "2K"
+  }
+}

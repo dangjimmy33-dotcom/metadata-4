@@ -1,0 +1,144 @@
+{
+  "_change_number": 34259759,
+  "_missing_token": false,
+  "_sha": "db3031ff3779e6ef6f18ac5e9f4869da4e1b76dc",
+  "_size": 3627,
+  "appid": "3657670",
+  "common": {
+    "app_retired_publisher_request": "1",
+    "associations": {
+      "0": {
+        "name": "Visual Concepts",
+        "type": "developer"
+      },
+      "1": {
+        "name": "2K",
+        "type": "publisher"
+      },
+      "2": {
+        "name": "NBA 2K",
+        "type": "franchise"
+      }
+    },
+    "category": {
+      "category_1": "1",
+      "category_2": "1",
+      "category_22": "1",
+      "category_23": "1",
+      "category_24": "1",
+      "category_35": "1",
+      "category_36": "1",
+      "category_37": "1",
+      "category_38": "1",
+      "category_39": "1",
+      "category_44": "1",
+      "category_49": "1",
+      "category_9": "1"
+    },
+    "exfgls": "7",
+    "gameid": "3657670",
+    "genres": {
+      "0": "18"
+    },
+    "header_image": {
+      "english": "fafc3fac202708996f3b88cdfd87c8f6954576f1/header.jpg"
+    },
+    "name": "NBA 2K26 MyTEAM Bonus Offer: Season 2",
+    "name_localized": {
+      "brazilian": "Oferta de Bônus do MyTEAM do NBA 2K26: 2ª Temporada",
+      "czech": "Bonusová nabídka NBA 2K26 MyTEAM: Season 2",
+      "danish": "NBA 2K26 MyTEAM-bonustilbud: Season 2",
+      "dutch": "NBA 2K26 MyTEAM bonusaanbieding: Season 2",
+      "finnish": "NBA 2K26 MyTEAM Bonus Offer: Season 2",
+      "french": "Offre bonus MyTEAM NBA 2K26 : Saison 2",
+      "german": "NBA 2K26 MyTEAM-Bonusangebot für Saison 2",
+      "italian": "Offerta bonus MyTEAM NBA 2K26: Stagione 2",
+      "japanese": "『NBA 2K26』マイチーム追加コンテンツ：シーズン2",
+      "koreana": "NBA 2K26 MyTEAM 보너스 혜택: 시즌 2",
+      "latam": "Oferta de bonificación NBA 2K26 MyTEAM: Temporada 2",
+      "norwegian": "MyTEAM-bonustilbud for NBA 2K26 S2",
+      "polish": "NBA 2K26 MyTEAM Bonus Offer: Season 2",
+      "portuguese": "NBA 2K26 MyTEAM Bonus Offer: Season 2",
+      "russian": "Бонусное предложение NBA 2K26 MyTEAM Bonus Offer: Season 2",
+      "schinese": "《NBA 2K26》梦幻球队额外奖励：第2季",
+      "spanish": "Oferta de bonificación de NBA 2K26 MyTEAM: Temporada 2",
+      "swedish": "NBA 2K26 MyTEAM-bonuserbjudande: Season 2",
+      "tchinese": "《NBA 2K26》MyTEAM特典優惠：第2季",
+      "turkish": "NBA 2K26 MyTEAM Bonus Teklifi: Season 2",
+      "ukrainian": "Бонусна пропозиція NBA 2K26 MyTEAM: Season 2"
+    },
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "3472040",
+    "primary_genre": "18",
+    "releasestate": "released",
+    "small_capsule": {
+      "english": "665daddba978c340c20c5e838eefac42dc82d9f6/capsule_231x87.jpg"
+    },
+    "steam_release_date": "1760713456",
+    "store_asset_mtime": "1759528753",
+    "store_screenshot": "289317ba58ae3c50078b5ff61ed37de8a14528e8/ss_289317ba58ae3c50078b5ff61ed37de8a14528e8.jpg",
+    "store_tags": {
+      "0": "701",
+      "1": "16250",
+      "10": "3859",
+      "11": "7481",
+      "12": "9204",
+      "13": "5711",
+      "14": "4202",
+      "15": "3843",
+      "16": "1685",
+      "17": "7368",
+      "18": "3841",
+      "19": "12095",
+      "2": "599",
+      "3": "1746",
+      "4": "5055",
+      "5": "4191",
+      "6": "12472",
+      "7": "4182",
+      "8": "4747",
+      "9": "1775"
+    },
+    "supported_languages": {
+      "english": {
+        "full_audio": "true",
+        "supported": "true"
+      },
+      "french": {
+        "supported": "true"
+      },
+      "german": {
+        "supported": "true"
+      },
+      "italian": {
+        "supported": "true"
+      },
+      "japanese": {
+        "supported": "true"
+      },
+      "koreana": {
+        "supported": "true"
+      },
+      "schinese": {
+        "supported": "true"
+      },
+      "spanish": {
+        "supported": "true"
+      },
+      "tchinese": {
+        "supported": "true"
+      }
+    },
+    "type": "DLC"
+  },
+  "extended": {
+    "developer": "Visual Concepts",
+    "dlcavailableonstore": "1",
+    "dlcforappid": "3472040",
+    "homepage": "https://www.nba2k.com/",
+    "mustownapptopurchase": "3472040",
+    "publisher": "2K"
+  }
+}

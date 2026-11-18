@@ -1,0 +1,24 @@
+{
+  "_change_number": 37150848,
+  "_missing_token": false,
+  "_sha": "2a35c0ebc4bcd738b339fbc8b9ae9226249369ef",
+  "_size": 388,
+  "appid": "4041510",
+  "common": {
+    "exfgls": "9",
+    "gameid": "4041510",
+    "name": "EA SPORTS™ College Football 27",
+    "osarch": "",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "4032350",
+    "releasestate": "released",
+    "store_tags": {},
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "4032350",
+    "mustownapptopurchase": "4032350"
+  }
+}

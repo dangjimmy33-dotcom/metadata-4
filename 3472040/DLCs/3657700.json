@@ -1,0 +1,142 @@
+{
+  "_change_number": 34539435,
+  "_missing_token": false,
+  "_sha": "9f68c05a3fd5e813cd17a8f6c2fed2963114b749",
+  "_size": 3583,
+  "appid": "3657700",
+  "common": {
+    "app_retired_publisher_request": "1",
+    "associations": {
+      "0": {
+        "name": "Visual Concepts",
+        "type": "developer"
+      },
+      "1": {
+        "name": "2K",
+        "type": "publisher"
+      },
+      "2": {
+        "name": "NBA 2K",
+        "type": "franchise"
+      }
+    },
+    "category": {
+      "category_1": "1",
+      "category_2": "1",
+      "category_22": "1",
+      "category_23": "1",
+      "category_24": "1",
+      "category_35": "1",
+      "category_36": "1",
+      "category_37": "1",
+      "category_38": "1",
+      "category_39": "1",
+      "category_44": "1",
+      "category_49": "1",
+      "category_9": "1"
+    },
+    "exfgls": "7",
+    "gameid": "3657700",
+    "genres": {
+      "0": "18"
+    },
+    "header_image": {
+      "english": "e75290515820ea2ff2654b0dde7b22c23fd6d47f/header.jpg"
+    },
+    "name": "NBA 2K26 MyCAREER Bonus Offer: Season 3",
+    "name_localized": {
+      "brazilian": "Oferta de Bônus do MyCAREER do NBA 2K26: 3ª Temporada",
+      "czech": "Bonusová nabídka NBA 2K26 MyCAREER: Season 3",
+      "danish": "NBA 2K26 MyTEAM-bonustilbud: Season 3",
+      "dutch": "NBA 2K26 MyCAREER bonusaanbieding: Season 3",
+      "french": "Offre bonus Ma CARRIÈRE NBA 2K26 : Saison 3",
+      "german": "NBA 2K26 Meine-KARRIERE-Bonusangebot für Saison 3",
+      "italian": "Offerta bonus La mia CARRIERA NBA 2K26: Stagione 3",
+      "japanese": "『NBA 2K26』マイキャリア追加コンテンツ：シーズン3",
+      "koreana": "NBA 2K26 MyCAREER 보너스 혜택: 시즌 3",
+      "latam": "Oferta de bonificación NBA 2K26 MyCAREER: Temporada 3",
+      "norwegian": "MyCAREER-bonustilbud for NBA 2K26 S3",
+      "portuguese": "Oferta de Bónus MyCAREER NBA 2K26: Temporada 3",
+      "russian": "Бонусное предложение NBA 2K26 MyCAREER Bonus Offer Season 3",
+      "schinese": "《NBA 2K26》辉煌生涯额外奖励：第3季",
+      "spanish": "Oferta de bonificación Mi CARRERA de NBA 2K26: Temporada 3",
+      "swedish": "NBA 2K26 MyCAREER-bonuserbjudande: Season 3",
+      "tchinese": "《NBA 2K26》MyCAREER特典優惠：第3季",
+      "turkish": "NBA 2K26 MyCAREER Bonus Teklifi: Season 3",
+      "ukrainian": "Бонусна пропозиція NBA 2K26 MyCAREER: Season 3"
+    },
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "3472040",
+    "primary_genre": "18",
+    "releasestate": "released",
+    "small_capsule": {
+      "english": "adc822b9a48e5c25394d1a3f0b92a91d2365a64f/capsule_231x87.jpg"
+    },
+    "steam_release_date": "1764345595",
+    "store_asset_mtime": "1762958467",
+    "store_screenshot": "569591dc72c6d650d3bc56fd83ebed0230ce8b6b/ss_569591dc72c6d650d3bc56fd83ebed0230ce8b6b.jpg",
+    "store_tags": {
+      "0": "16250",
+      "1": "701",
+      "10": "4747",
+      "11": "7481",
+      "12": "5711",
+      "13": "3843",
+      "14": "4202",
+      "15": "9204",
+      "16": "1685",
+      "17": "7368",
+      "18": "3841",
+      "19": "12095",
+      "2": "1746",
+      "3": "599",
+      "4": "5055",
+      "5": "4191",
+      "6": "1775",
+      "7": "3859",
+      "8": "12472",
+      "9": "4182"
+    },
+    "supported_languages": {
+      "english": {
+        "full_audio": "true",
+        "supported": "true"
+      },
+      "french": {
+        "supported": "true"
+      },
+      "german": {
+        "supported": "true"
+      },
+      "italian": {
+        "supported": "true"
+      },
+      "japanese": {
+        "supported": "true"
+      },
+      "koreana": {
+        "supported": "true"
+      },
+      "schinese": {
+        "supported": "true"
+      },
+      "spanish": {
+        "supported": "true"
+      },
+      "tchinese": {
+        "supported": "true"
+      }
+    },
+    "type": "DLC"
+  },
+  "extended": {
+    "developer": "Visual Concepts",
+    "dlcavailableonstore": "1",
+    "dlcforappid": "3472040",
+    "homepage": "https://www.nba2k.com/",
+    "mustownapptopurchase": "3472040",
+    "publisher": "2K"
+  }
+}

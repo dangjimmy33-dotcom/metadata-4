@@ -1,0 +1,138 @@
+{
+  "_change_number": 35016380,
+  "_missing_token": false,
+  "_sha": "423cb56f7edfa540b212a0748c2c79c6432d6af2",
+  "_size": 3098,
+  "appid": "3657790",
+  "common": {
+    "app_retired_publisher_request": "1",
+    "associations": {
+      "0": {
+        "name": "Visual Concepts",
+        "type": "developer"
+      },
+      "1": {
+        "name": "2K",
+        "type": "publisher"
+      },
+      "2": {
+        "name": "NBA 2K",
+        "type": "franchise"
+      }
+    },
+    "category": {
+      "category_1": "1",
+      "category_2": "1",
+      "category_22": "1",
+      "category_23": "1",
+      "category_24": "1",
+      "category_35": "1",
+      "category_36": "1",
+      "category_37": "1",
+      "category_38": "1",
+      "category_39": "1",
+      "category_44": "1",
+      "category_49": "1",
+      "category_62": "1",
+      "category_9": "1"
+    },
+    "gameid": "3657790",
+    "genres": {
+      "0": "18"
+    },
+    "header_image": {
+      "english": "c484f69c6e34e88513dbd1c78a6371476f18fb81/header.jpg"
+    },
+    "name": "NBA 2K26 Pro Pass: Season 5",
+    "name_localized": {
+      "brazilian": "Passe Pro do NBA 2K26: 5ª Temporada",
+      "english": "NBA 2K26 Pro Pass: Season 5",
+      "french": "Pass Pro NBA 2K26 : Saison 5",
+      "german": "NBA 2K26 Pro-Pass: Saison 5",
+      "italian": "NBA 2K26 Pro Pass: Stagione 5",
+      "japanese": "『NBA 2K26』プロ パス：シーズン5",
+      "koreana": "NBA 2K26 프로 패스: 시즌 5",
+      "latam": "Pase Pro de NBA 2K26: Temporada 5",
+      "norwegian": "NBA 2K26 Pro Pass: Sesong 5",
+      "portuguese": "Passe Pro NBA 2K26: Temporada 5",
+      "russian": "Сезонный абонемент NBA 2K26 Pro Pass: Season 5",
+      "schinese": "《NBA 2K26》职业通行证：第5季",
+      "spanish": "Pase Pro de NBA 2K26: Temporada 5",
+      "tchinese": "《NBA 2K26》職業通行證：第5季",
+      "ukrainian": "Перепустка NBA 2K26 Pro Pass: Season 5"
+    },
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "3472040",
+    "primary_genre": "18",
+    "releasestate": "released",
+    "small_capsule": {
+      "english": "2e07daa86f7212d774d16a945c841951e0e27f5f/capsule_231x87.jpg"
+    },
+    "steam_release_date": "1771603290",
+    "store_asset_mtime": "1770330379",
+    "store_screenshot": "7b3377f9fdb8e10dfd5c932147108a2cb582b204/ss_7b3377f9fdb8e10dfd5c932147108a2cb582b204.jpg",
+    "store_tags": {
+      "0": "16250",
+      "1": "701",
+      "10": "12472",
+      "11": "4747",
+      "12": "5711",
+      "13": "3843",
+      "14": "4202",
+      "15": "1685",
+      "16": "7368",
+      "17": "44868",
+      "18": "3841",
+      "19": "9204",
+      "2": "1746",
+      "3": "599",
+      "4": "5055",
+      "5": "4191",
+      "6": "3859",
+      "7": "7481",
+      "8": "4182",
+      "9": "1775"
+    },
+    "supported_languages": {
+      "english": {
+        "full_audio": "true",
+        "supported": "true"
+      },
+      "french": {
+        "supported": "true"
+      },
+      "german": {
+        "supported": "true"
+      },
+      "italian": {
+        "supported": "true"
+      },
+      "japanese": {
+        "supported": "true"
+      },
+      "koreana": {
+        "supported": "true"
+      },
+      "schinese": {
+        "supported": "true"
+      },
+      "spanish": {
+        "supported": "true"
+      },
+      "tchinese": {
+        "supported": "true"
+      }
+    },
+    "type": "DLC"
+  },
+  "extended": {
+    "developer": "Visual Concepts",
+    "dlcavailableonstore": "1",
+    "dlcforappid": "3472040",
+    "homepage": "https://www.nba2k.com/",
+    "mustownapptopurchase": "3472040",
+    "publisher": "2K"
+  }
+}

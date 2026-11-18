@@ -1,0 +1,144 @@
+{
+  "_change_number": 37853242,
+  "_missing_token": false,
+  "_sha": "91ceb07654ee62dfb3bb9abe2117f1f6c9366347",
+  "_size": 3691,
+  "appid": "3657940",
+  "common": {
+    "app_retired_publisher_request": "1",
+    "associations": {
+      "0": {
+        "name": "Visual Concepts",
+        "type": "developer"
+      },
+      "1": {
+        "name": "2K",
+        "type": "publisher"
+      },
+      "2": {
+        "name": "NBA 2K",
+        "type": "franchise"
+      }
+    },
+    "category": {
+      "category_1": "1",
+      "category_2": "1",
+      "category_22": "1",
+      "category_23": "1",
+      "category_24": "1",
+      "category_35": "1",
+      "category_36": "1",
+      "category_37": "1",
+      "category_38": "1",
+      "category_39": "1",
+      "category_44": "1",
+      "category_49": "1",
+      "category_9": "1"
+    },
+    "exfgls": "7",
+    "gameid": "3657940",
+    "genres": {
+      "0": "18"
+    },
+    "header_image": {
+      "english": "82fd1f479162847c376124f6eed2dacfbe9fe12d/header.jpg"
+    },
+    "name": "NBA 2K26 MyCAREER Season 8 Bonus Offer",
+    "name_localized": {
+      "brazilian": "Oferta bônus MyCAREER da Temporada 8 do NBA 2K26",
+      "czech": "Bonusová nabídka MyCAREER NBA 2K26: 8. sezóna",
+      "danish": "NBA 2K26 MyCAREER Season 8-bonustilbud",
+      "english": "NBA 2K26 MyCAREER Season 8 Bonus Offer",
+      "finnish": "NBA 2K26 MyCAREER Kausi 8 -bonustarjous",
+      "french": "Offre bonus Saison 8 NBA 2K26 MyCAREER",
+      "german": "NBA 2K26 Meine KARRIERE Saison 8 Bonusangebot",
+      "italian": "Offerta bonus La mia CARRIERA Stagione 8 NBA 2K26",
+      "japanese": "『NBA 2K26』シーズン8 マイキャリア追加コンテンツ",
+      "koreana": "NBA 2K26 MyCAREER 시즌 8 보너스 혜택",
+      "latam": "Oferta de bonus de NBA 2K26 MyCAREER Temporada 8",
+      "norwegian": "Bonustilbud for sesong 8 av NBA 2K26 MyCAREER",
+      "polish": "Oferta bonusowa MyCAREER w sezonie 8 NBA 2K26",
+      "portuguese": "Oferta de Bónus da Temporada 8 do MyCAREER do NBA 2K26",
+      "russian": "Бонусное предложение NBA 2K26 MyCAREER Season 8 Bonus Offer",
+      "schinese": "《NBA 2K26》辉煌生涯第八赛季额外奖励",
+      "spanish": "Oferta de bonificación Mi CARRERA de la Temporada 8 de NBA 2K26",
+      "swedish": "NBA 2K26 MyCAREER säsong 8 bonuserbjudande",
+      "tchinese": "《NBA 2K26》MyCAREER第8季特典優惠",
+      "turkish": "NBA 2K26 MyCAREER Season 8 Bonus Teklifi",
+      "ukrainian": "Бонусна пропозиція NBA 2K26 MyCAREER Season 8"
+    },
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "3472040",
+    "primary_genre": "18",
+    "releasestate": "released",
+    "small_capsule": {
+      "english": "2817fb96f8566a91d8299240acb816d79926a29a/capsule_231x87.jpg"
+    },
+    "steam_release_date": "1782486189",
+    "store_asset_mtime": "1781505259",
+    "store_screenshot": "1d09db81a47440cc90efd482bda608744e48b9a0/ss_1d09db81a47440cc90efd482bda608744e48b9a0.jpg",
+    "store_tags": {
+      "0": "701",
+      "1": "1746",
+      "10": "1775",
+      "11": "5711",
+      "12": "3843",
+      "13": "4202",
+      "14": "7368",
+      "15": "44868",
+      "16": "1685",
+      "17": "3841",
+      "18": "16250",
+      "19": "9204",
+      "2": "599",
+      "3": "5055",
+      "4": "4191",
+      "5": "3859",
+      "6": "7481",
+      "7": "4182",
+      "8": "4747",
+      "9": "12472"
+    },
+    "supported_languages": {
+      "english": {
+        "full_audio": "true",
+        "supported": "true"
+      },
+      "french": {
+        "supported": "true"
+      },
+      "german": {
+        "supported": "true"
+      },
+      "italian": {
+        "supported": "true"
+      },
+      "japanese": {
+        "supported": "true"
+      },
+      "koreana": {
+        "supported": "true"
+      },
+      "schinese": {
+        "supported": "true"
+      },
+      "spanish": {
+        "supported": "true"
+      },
+      "tchinese": {
+        "supported": "true"
+      }
+    },
+    "type": "DLC"
+  },
+  "extended": {
+    "developer": "Visual Concepts",
+    "dlcavailableonstore": "1",
+    "dlcforappid": "3472040",
+    "homepage": "https://www.nba2k.com/",
+    "mustownapptopurchase": "3472040",
+    "publisher": "2K"
+  }
+}
