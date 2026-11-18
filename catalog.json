@@ -3771,6 +3771,72 @@
     "added_ts": 1794419197
   },
   {
+    "id": "game-648800",
+    "appid": 648800,
+    "name": "Raft",
+    "developer": "Redbeet Interactive",
+    "publisher": "Axolot Games",
+    "installdir": "Raft",
+    "launch_exes": [
+      "Raft.exe"
+    ],
+    "launch_exe": "Raft.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "22312909",
+    "has_metadata": true,
+    "depot_base": 648801,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/648800/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/648800/header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "22312909",
+        "branch": "public Raft 1.1.01 Hotfix",
+        "label": "public Raft 1.1.01 Hotfix - Build 22312909 (03/12/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228990",
+          "648801"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1795022737
+  },
+  {
     "id": "game-911400",
     "appid": 911400,
     "name": "Assassin's Creed III Remastered",
