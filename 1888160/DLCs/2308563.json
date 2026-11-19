@@ -1,0 +1,33 @@
+{
+  "_change_number": 26375805,
+  "_missing_token": false,
+  "_sha": "cb5bf1e79b1843b8e88f3eb26afb293cbdd8b0e7",
+  "_size": 925,
+  "appid": "2308563",
+  "common": {
+    "associations": {},
+    "gameid": "2308563",
+    "name": "ARMORED CORE™ VI FIRES OF RUBICON™ Digital Artbook & Original Soundtrack",
+    "name_localized": {
+      "brazilian": "Livro de Arte Digital e Trilha Sonora Original ARMORED CORE™ VI FIRES OF RUBICON™",
+      "koreana": "아머드 코어 VI 루비콘의 화염 디럭스 에디션 구매 특전",
+      "latam": "ARMORED CORE™ VI FIRES OF RUBICON™: Libro de arte digital y banda sonora original",
+      "schinese": "机战佣兵VI 境界天火 数字豪华版 购买特典",
+      "tchinese": "機戰傭兵VI 境界天火 數位豪華版 購買特典"
+    },
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "1888160",
+    "releasestate": "released",
+    "store_tags": {
+      "0": "19"
+    },
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "1888160",
+    "mustownapptopurchase": "1888160"
+  }
+}

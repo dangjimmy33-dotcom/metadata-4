@@ -1051,6 +1051,81 @@
     "added_ts": 1794718824
   },
   {
+    "id": "game-1888160",
+    "appid": 1888160,
+    "name": "ARMORED CORE™ VI FIRES OF RUBICON™",
+    "developer": "FromSoftware, Inc.",
+    "publisher": "FromSoftware, Inc.",
+    "installdir": "ARMORED CORE VI FIRES OF RUBICON",
+    "launch_exes": [
+      "Game/start_protected_game.exe",
+      "start_protected_game.exe",
+      "ArtbookOST/ACVI_FOR Digital Artbook and Soundtrack.exe",
+      "ACVI_FOR Digital Artbook and Soundtrack.exe",
+      "Game/FNR_Release_Steam_d3d12.exe",
+      "FNR_Release_Steam_d3d12.exe"
+    ],
+    "launch_exe": "Game/start_protected_game.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "21034069",
+    "has_metadata": true,
+    "depot_base": 1888161,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1888160/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1888160/header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "21034069",
+        "branch": "public Release Note for 2025/12/16",
+        "label": "public Release Note for 2025/12/16 - Build 21034069 (12/03/2025)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228988",
+          "228990",
+          "1888161",
+          "1888163",
+          "1888164",
+          "2308563"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1795084655
+  },
+  {
     "id": "game-1903340",
     "appid": 1903340,
     "name": "Clair Obscur: Expedition 33",
