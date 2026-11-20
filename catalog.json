@@ -3755,6 +3755,31 @@
             "is_default": true
           }
         ]
+      },
+      {
+        "id": "26621909",
+        "branch": "public Hotfix - 1.3.6.1.177547",
+        "label": "public Hotfix - 1.3.6.1.177547 - Build 26621909 (11/12/2026)",
+        "is_ready": true,
+        "is_recommended": false,
+        "manifest_depots": [
+          "228989",
+          "228990",
+          "513711",
+          "919680",
+          "1643210",
+          "3596770"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
       }
     ],
     "languages": [
