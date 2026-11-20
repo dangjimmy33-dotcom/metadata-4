@@ -3711,6 +3711,76 @@
     "added_ts": 1794562571
   },
   {
+    "id": "game-513710",
+    "appid": 513710,
+    "name": "SCUM",
+    "developer": "Gamepires",
+    "publisher": "Gamepires",
+    "installdir": "SCUM",
+    "launch_exes": [
+      "SCUM_Launcher.exe"
+    ],
+    "launch_exe": "SCUM_Launcher.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "26789993",
+    "has_metadata": true,
+    "depot_base": 513711,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/513710/98dec59b7c31a508ff15a5d3528802b524282ad3/library_capsule.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/513710/932ff93ad46b5bcf23d1ecc2a370727afcb2fcf9/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "26789993",
+        "branch": "public Hotfix - 1.3.6.2.179673",
+        "label": "public Hotfix - 1.3.6.2.179673 - Build 26789993 (11/19/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228989",
+          "228990",
+          "513711",
+          "919680",
+          "1643210",
+          "3596770"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1795166817
+  },
+  {
     "id": "game-5245810",
     "appid": 5245810,
     "name": "ForgeTax",

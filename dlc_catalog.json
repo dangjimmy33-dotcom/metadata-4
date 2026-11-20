@@ -1,7 +1,7 @@
 {
-  "updated_at": 1795084659,
-  "total_games": 20,
-  "total_dlcs": 169,
+  "updated_at": 1795166822,
+  "total_games": 21,
+  "total_dlcs": 191,
   "games": {
     "1038250": [
       "1363540",
@@ -180,6 +180,30 @@
       "48196",
       "48197",
       "48198"
+    ],
+    "513710": [
+      "919680",
+      "1643210",
+      "1990860",
+      "2321800",
+      "2371620",
+      "2517160",
+      "2517170",
+      "2651720",
+      "2651740",
+      "2651750",
+      "2841840",
+      "3596770",
+      "4062860",
+      "4139450",
+      "4369750",
+      "4529160",
+      "4635190",
+      "4635200",
+      "4635240",
+      "4635250",
+      "5006300",
+      "5088110"
     ],
     "648350": [
       "817550",
@@ -774,6 +798,14 @@
       "store_visible": false,
       "metadata_file": "648350/DLCs/817560.json"
     },
+    "919680": {
+      "appid": "919680",
+      "name": "SCUM Deluxe",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/919680/header.jpg",
+      "parent": "513710",
+      "store_visible": false,
+      "metadata_file": "513710/DLCs/919680.json"
+    },
     "953940": {
       "appid": "953940",
       "name": "Jurassic World Evolution: Secrets of Dr Wu",
@@ -974,6 +1006,14 @@
       "store_visible": false,
       "metadata_file": "1038250/DLCs/1633610.json"
     },
+    "1643210": {
+      "appid": "1643210",
+      "name": "SCUM Deluxe 2",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1643210/header.jpg",
+      "parent": "513710",
+      "store_visible": false,
+      "metadata_file": "513710/DLCs/1643210.json"
+    },
     "1690420": {
       "appid": "1690420",
       "name": "DIRT 5 - Wild Spirits Pack",
@@ -981,6 +1021,14 @@
       "parent": "1038250",
       "store_visible": false,
       "metadata_file": "1038250/DLCs/1690420.json"
+    },
+    "1990860": {
+      "appid": "1990860",
+      "name": "SCUM Danny Trejo",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1990860/header.jpg",
+      "parent": "513710",
+      "store_visible": false,
+      "metadata_file": "513710/DLCs/1990860.json"
     },
     "2308560": {
       "appid": "2308560",
@@ -997,6 +1045,62 @@
       "parent": "1888160",
       "store_visible": false,
       "metadata_file": "1888160/DLCs/2308563.json"
+    },
+    "2321800": {
+      "appid": "2321800",
+      "name": "SCUM Hair Deluxe 1",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2321800/header.jpg",
+      "parent": "513710",
+      "store_visible": false,
+      "metadata_file": "513710/DLCs/2321800.json"
+    },
+    "2371620": {
+      "appid": "2371620",
+      "name": "SCUM Luis Moncada",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2371620/header.jpg",
+      "parent": "513710",
+      "store_visible": false,
+      "metadata_file": "513710/DLCs/2371620.json"
+    },
+    "2517160": {
+      "appid": "2517160",
+      "name": "SCUM Charms 1",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2517160/header.jpg",
+      "parent": "513710",
+      "store_visible": false,
+      "metadata_file": "513710/DLCs/2517160.json"
+    },
+    "2517170": {
+      "appid": "2517170",
+      "name": "SCUM Weapon Skins 1",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2517170/header.jpg",
+      "parent": "513710",
+      "store_visible": false,
+      "metadata_file": "513710/DLCs/2517170.json"
+    },
+    "2651720": {
+      "appid": "2651720",
+      "name": "SCUM Car Skins 1",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2651720/header.jpg",
+      "parent": "513710",
+      "store_visible": false,
+      "metadata_file": "513710/DLCs/2651720.json"
+    },
+    "2651740": {
+      "appid": "2651740",
+      "name": "SCUM Man Hair Deluxe 1",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2651740/header.jpg",
+      "parent": "513710",
+      "store_visible": false,
+      "metadata_file": "513710/DLCs/2651740.json"
+    },
+    "2651750": {
+      "appid": "2651750",
+      "name": "SCUM Dances 1",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2651750/header.jpg",
+      "parent": "513710",
+      "store_visible": false,
+      "metadata_file": "513710/DLCs/2651750.json"
     },
     "2667910": {
       "appid": "2667910",
@@ -1110,6 +1214,14 @@
       "store_visible": false,
       "metadata_file": "934700/DLCs/2813310.json"
     },
+    "2841840": {
+      "appid": "2841840",
+      "name": "SCUM Raymond Cruz",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2841840/header.jpg",
+      "parent": "513710",
+      "store_visible": false,
+      "metadata_file": "513710/DLCs/2841840.json"
+    },
     "3228520": {
       "appid": "3228520",
       "name": "Clair Obscur: Expedition 33 – Deluxe Edition Upgrade",
@@ -1125,6 +1237,14 @@
       "parent": "2495100",
       "store_visible": false,
       "metadata_file": "2495100/DLCs/3359740.json"
+    },
+    "3596770": {
+      "appid": "3596770",
+      "name": "SCUM Deluxe 3",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3596770/09ac4b9357a940433cc39036a08a6acfad74eba6/header.jpg",
+      "parent": "513710",
+      "store_visible": false,
+      "metadata_file": "513710/DLCs/3596770.json"
     },
     "3657560": {
       "appid": "3657560",
@@ -1478,6 +1598,14 @@
       "store_visible": false,
       "metadata_file": "2495100/DLCs/4055140.json"
     },
+    "4062860": {
+      "appid": "4062860",
+      "name": "SCUM Base Building Decor Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4062860/5086f83bcd121279c838c97f9ae5d0e33419d53c/header.jpg",
+      "parent": "513710",
+      "store_visible": false,
+      "metadata_file": "513710/DLCs/4062860.json"
+    },
     "4113840": {
       "appid": "4113840",
       "name": "EA SPORTS™ College Football 27 Deluxe Edition Pre-order Content",
@@ -1510,6 +1638,22 @@
       "store_visible": false,
       "metadata_file": "4032350/DLCs/4115150.json"
     },
+    "4139450": {
+      "appid": "4139450",
+      "name": "SCUM Squad Emblem Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4139450/d9cf1f12476a438853533da87e0c1686448a5bfd/header.jpg",
+      "parent": "513710",
+      "store_visible": false,
+      "metadata_file": "513710/DLCs/4139450.json"
+    },
+    "4369750": {
+      "appid": "4369750",
+      "name": "SCUM Eastern Furniture Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4369750/79d0b8b7b7e52a2e1fe42dcc97dbf83895c8a008/header.jpg",
+      "parent": "513710",
+      "store_visible": false,
+      "metadata_file": "513710/DLCs/4369750.json"
+    },
     "4407660": {
       "appid": "4407660",
       "name": "EA SPORTS FC™ 27 Lite",
@@ -1517,6 +1661,46 @@
       "parent": "4407750",
       "store_visible": false,
       "metadata_file": "4407750/DLCs/4407660.json"
+    },
+    "4529160": {
+      "appid": "4529160",
+      "name": "SCUM Woodland Hunter Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4529160/594ae3b0dd4f76a0cecd273a77115ddc2aa471ff/header.jpg",
+      "parent": "513710",
+      "store_visible": false,
+      "metadata_file": "513710/DLCs/4529160.json"
+    },
+    "4635190": {
+      "appid": "4635190",
+      "name": "SCUM Woodland Furniture Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4635190/8c7e1623ef1945c7faac834c8020abfd6c2900f8/header.jpg",
+      "parent": "513710",
+      "store_visible": false,
+      "metadata_file": "513710/DLCs/4635190.json"
+    },
+    "4635200": {
+      "appid": "4635200",
+      "name": "SCUM Apex Predator Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4635200/1a11be35a6abed0cc6fcf78d44d66fb99d18152f/header.jpg",
+      "parent": "513710",
+      "store_visible": false,
+      "metadata_file": "513710/DLCs/4635200.json"
+    },
+    "4635240": {
+      "appid": "4635240",
+      "name": "SCUM Specialist Archer Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4635240/b2428b702b602e51ef7d4d89151f0372b480db22/header.jpg",
+      "parent": "513710",
+      "store_visible": false,
+      "metadata_file": "513710/DLCs/4635240.json"
+    },
+    "4635250": {
+      "appid": "4635250",
+      "name": "SCUM Specialist Scout Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4635250/d43c0568e4ae57bacf3d9fa8dfbb354d61b10506/header.jpg",
+      "parent": "513710",
+      "store_visible": false,
+      "metadata_file": "513710/DLCs/4635250.json"
     },
     "4681330": {
       "appid": "4681330",
@@ -1557,6 +1741,22 @@
       "parent": "3472040",
       "store_visible": false,
       "metadata_file": "3472040/DLCs/4765430.json"
+    },
+    "5006300": {
+      "appid": "5006300",
+      "name": "SCUM Stalker Outfit Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5006300/f028e45472d9b76a23f70801d0133a3d5f7d5970/header.jpg",
+      "parent": "513710",
+      "store_visible": false,
+      "metadata_file": "513710/DLCs/5006300.json"
+    },
+    "5088110": {
+      "appid": "5088110",
+      "name": "SCUM Specialist Angler Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5088110/03355f048e430d1fd9399f2a871deb41e0ea4364/header.jpg",
+      "parent": "513710",
+      "store_visible": false,
+      "metadata_file": "513710/DLCs/5088110.json"
     },
     "5307520": {
       "appid": "5307520",

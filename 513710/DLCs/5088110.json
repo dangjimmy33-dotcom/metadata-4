@@ -1,0 +1,132 @@
+{
+  "_change_number": 39504121,
+  "_missing_token": false,
+  "_sha": "dcd993a93179af177d1f6a48bad553d4227142c8",
+  "_size": 2491,
+  "appid": "5088110",
+  "common": {
+    "associations": {
+      "0": {
+        "name": "Gamepires",
+        "type": "developer"
+      },
+      "1": {
+        "name": "Gamepires",
+        "type": "publisher"
+      }
+    },
+    "category": {
+      "category_1": "1",
+      "category_15": "1",
+      "category_2": "1",
+      "category_20": "1",
+      "category_22": "1",
+      "category_29": "1",
+      "category_36": "1",
+      "category_38": "1",
+      "category_45": "1",
+      "category_46": "1",
+      "category_49": "1",
+      "category_67": "1",
+      "category_68": "1",
+      "category_69": "1",
+      "category_70": "1",
+      "category_78": "1",
+      "category_9": "1"
+    },
+    "content_descriptors": {
+      "0": "1",
+      "1": "2",
+      "2": "5"
+    },
+    "content_descriptors_including_dlc": {
+      "0": "1",
+      "1": "2",
+      "2": "5"
+    },
+    "exfgls": "9",
+    "gameid": "5088110",
+    "genres": {
+      "0": "1",
+      "1": "25",
+      "2": "23",
+      "3": "29"
+    },
+    "header_image": {
+      "english": "03355f048e430d1fd9399f2a871deb41e0ea4364/header.jpg"
+    },
+    "name": "SCUM Specialist Angler Pack",
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "513710",
+    "primary_genre": "1",
+    "releasestate": "released",
+    "small_capsule": {
+      "english": "b99d03d6895390b247f4f68b089e5a97d902e55a/capsule_231x87.jpg"
+    },
+    "steam_release_date": "1791208909",
+    "store_asset_mtime": "1789138977",
+    "store_screenshot": "c4cfdd5fcda8a9c39385000a6f019b67d17b49cd/ss_c4cfdd5fcda8a9c39385000a6f019b67d17b49cd.jpg",
+    "store_tags": {
+      "0": "19",
+      "1": "21",
+      "2": "128",
+      "3": "492",
+      "4": "4345",
+      "5": "4667"
+    },
+    "supported_languages": {
+      "brazilian": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "english": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "french": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "german": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "polish": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "russian": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "schinese": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "spanish": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "tchinese": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "thai": {
+        "subtitles": "true",
+        "supported": "true"
+      }
+    },
+    "type": "DLC"
+  },
+  "extended": {
+    "developer": "Gamepires",
+    "dlcavailableonstore": "1",
+    "dlcforappid": "513710",
+    "homepage": "http://scum.game",
+    "mustownapptopurchase": "513710",
+    "publisher": "Gamepires"
+  }
+}
