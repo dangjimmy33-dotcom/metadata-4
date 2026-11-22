@@ -1,5 +1,5 @@
 {
-  "updated_at": 1795330302,
+  "updated_at": 1795356554,
   "total_games": 22,
   "total_dlcs": 211,
   "games": {
@@ -1839,10 +1839,11 @@
     "4407660": {
       "appid": "4407660",
       "name": "EA SPORTS FC™ 27 Lite",
-      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4407660/header.jpg",
+      "image": "",
       "parent": "4407750",
       "store_visible": false,
-      "metadata_file": "4407750/DLCs/4407660.json"
+      "metadata_file": "4407750/DLCs/4407660.json",
+      "metadata_status": "appinfo"
     },
     "4529160": {
       "appid": "4529160",
@@ -1949,5 +1950,14 @@
       "metadata_file": "3629430/DLCs/5307520.json"
     }
   },
-  "coverage": {}
+  "coverage": {
+    "4407750": {
+      "discovered": 1,
+      "stored": 1,
+      "full_appinfo": 1,
+      "steam_store": 0,
+      "parent_appinfo": 0,
+      "missing_files": []
+    }
+  }
 }
