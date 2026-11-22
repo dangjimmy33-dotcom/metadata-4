@@ -1418,6 +1418,83 @@
     "added_ts": 1794565764
   },
   {
+    "id": "game-203830",
+    "appid": 203830,
+    "name": "The Dark Eye: Chains of Satinav",
+    "developer": "Daedalic Entertainment",
+    "publisher": "Daedalic Entertainment",
+    "installdir": "TheDarkEye Cos",
+    "launch_exes": [
+      "satinav.exe",
+      "Satinav.app",
+      "start",
+      "satinav_64.exe"
+    ],
+    "launch_exe": "satinav.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "17502313",
+    "has_metadata": true,
+    "depot_base": 203831,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/203830/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/203830/header.jpg",
+    "platforms": [
+      "Windows (64-bit)",
+      "Windows (32-bit)"
+    ],
+    "versions": [
+      {
+        "id": "17502313",
+        "branch": "public Patch 3.0.351.5517",
+        "label": "public Patch 3.0.351.5517 - Build 17502313 (02/24/2025)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "203831",
+          "203832",
+          "203837",
+          "203840",
+          "203841",
+          "203849",
+          "228984",
+          "228988",
+          "229002"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1795364774
+  },
+  {
     "id": "game-208480",
     "appid": 208480,
     "name": "Assassin's Creed® III",
