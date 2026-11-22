@@ -2829,6 +2829,431 @@
     "added_ts": 1794889815
   },
   {
+    "id": "game-391220",
+    "appid": 391220,
+    "name": "Rise of the Tomb Raider",
+    "developer": "Crystal Dynamics",
+    "publisher": "Crystal Dynamics",
+    "installdir": "Rise of the Tomb Raider",
+    "launch_exes": [
+      "ROTTR.exe",
+      "TR2_x64_final.exe",
+      "TR2_x64_release.exe",
+      "ROTTR_prot.exe",
+      "ROTTR_orig.exe",
+      "Rise of the Tomb Raider.app",
+      "RiseOfTheTombRaider.sh"
+    ],
+    "launch_exe": "ROTTR.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "9575745",
+    "has_metadata": true,
+    "depot_base": 391221,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/391220/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/391220/2e2fc1d2811647ccac4a7fd3a914b70b85051314/header.jpg",
+    "platforms": [
+      "Windows (64-bit)",
+      "Windows (32-bit)"
+    ],
+    "versions": [
+      {
+        "id": "9575745",
+        "branch": "public Update notes for Sept. 27, 2022",
+        "label": "public Update notes for Sept. 27, 2022 - Build 9575745 (09/23/2022)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228984",
+          "228990",
+          "391221",
+          "391222",
+          "391223",
+          "391224",
+          "391225",
+          "391226",
+          "391227",
+          "391228",
+          "391229",
+          "391230",
+          "391231",
+          "391232",
+          "391233",
+          "391234",
+          "391235",
+          "391236",
+          "391237",
+          "391238",
+          "391239",
+          "406201",
+          "406202",
+          "406204",
+          "406205",
+          "406206",
+          "406207",
+          "406209",
+          "418680",
+          "418681",
+          "418682",
+          "418683",
+          "418684",
+          "418685",
+          "418686",
+          "418687",
+          "418688",
+          "418689",
+          "418690",
+          "418691",
+          "418692",
+          "418693",
+          "418694",
+          "418695",
+          "418696",
+          "418697",
+          "418698",
+          "418699",
+          "418700",
+          "418701",
+          "418702",
+          "418703",
+          "418705",
+          "418706",
+          "418707",
+          "418708",
+          "418709",
+          "418710",
+          "418711",
+          "418712",
+          "418714",
+          "418715",
+          "418716",
+          "418717",
+          "418718",
+          "418719",
+          "418722",
+          "418723",
+          "418724",
+          "418725",
+          "418726",
+          "418727",
+          "418728",
+          "418729",
+          "418731",
+          "418732",
+          "418733",
+          "418734",
+          "418735",
+          "418736",
+          "418737",
+          "418738",
+          "418739",
+          "418741",
+          "418742",
+          "418743",
+          "418744",
+          "418745",
+          "418746",
+          "418747",
+          "418748",
+          "418749",
+          "418750",
+          "418760",
+          "418770",
+          "418780",
+          "418790",
+          "418800",
+          "418810",
+          "419110",
+          "505540",
+          "541750"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          },
+          {
+            "id": 391225,
+            "key": "lang:french",
+            "lang": "french",
+            "label": "Français (French)",
+            "source": "depot"
+          },
+          {
+            "id": 391226,
+            "key": "lang:italian",
+            "lang": "italian",
+            "label": "Italiano (Italian)",
+            "source": "depot"
+          },
+          {
+            "id": 391227,
+            "key": "lang:spanish",
+            "lang": "spanish",
+            "label": "Español (Spanish)",
+            "source": "depot"
+          },
+          {
+            "id": 391228,
+            "key": "lang:brazilian",
+            "lang": "brazilian",
+            "label": "Português (Brazilian)",
+            "source": "depot"
+          },
+          {
+            "id": 391229,
+            "key": "lang:russian",
+            "lang": "russian",
+            "label": "Русский (Russian)",
+            "source": "depot"
+          },
+          {
+            "id": 391230,
+            "key": "lang:japanese",
+            "lang": "japanese",
+            "label": "日本語 (Japanese)",
+            "source": "depot"
+          },
+          {
+            "id": 391231,
+            "key": "lang:koreana",
+            "lang": "koreana",
+            "label": "한국어 (Korean)",
+            "source": "depot"
+          },
+          {
+            "id": 391232,
+            "key": "lang:german",
+            "lang": "german",
+            "label": "Deutsch (German)",
+            "source": "depot"
+          },
+          {
+            "id": 391233,
+            "key": "lang:tchinese",
+            "lang": "tchinese",
+            "label": "繁體中文 (Traditional Chinese)",
+            "source": "depot"
+          },
+          {
+            "id": 391234,
+            "key": "lang:schinese",
+            "lang": "schinese",
+            "label": "简体中文 (Simplified Chinese)",
+            "source": "depot"
+          },
+          {
+            "id": 391235,
+            "key": "lang:polish",
+            "lang": "polish",
+            "label": "Polski (Polish)",
+            "source": "depot"
+          },
+          {
+            "id": 391236,
+            "key": "lang:dutch",
+            "lang": "dutch",
+            "label": "Nederlands (Dutch)",
+            "source": "depot"
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      },
+      {
+        "id": 391225,
+        "key": "lang:french",
+        "lang": "french",
+        "label": "Français (French)",
+        "source": "depot"
+      },
+      {
+        "id": 391226,
+        "key": "lang:italian",
+        "lang": "italian",
+        "label": "Italiano (Italian)",
+        "source": "depot"
+      },
+      {
+        "id": 391227,
+        "key": "lang:spanish",
+        "lang": "spanish",
+        "label": "Español (Spanish)",
+        "source": "depot"
+      },
+      {
+        "id": 391228,
+        "key": "lang:brazilian",
+        "lang": "brazilian",
+        "label": "Português (Brazilian)",
+        "source": "depot"
+      },
+      {
+        "id": 391229,
+        "key": "lang:russian",
+        "lang": "russian",
+        "label": "Русский (Russian)",
+        "source": "depot"
+      },
+      {
+        "id": 391230,
+        "key": "lang:japanese",
+        "lang": "japanese",
+        "label": "日本語 (Japanese)",
+        "source": "depot"
+      },
+      {
+        "id": 391231,
+        "key": "lang:koreana",
+        "lang": "koreana",
+        "label": "한국어 (Korean)",
+        "source": "depot"
+      },
+      {
+        "id": 391232,
+        "key": "lang:german",
+        "lang": "german",
+        "label": "Deutsch (German)",
+        "source": "depot"
+      },
+      {
+        "id": 391233,
+        "key": "lang:tchinese",
+        "lang": "tchinese",
+        "label": "繁體中文 (Traditional Chinese)",
+        "source": "depot"
+      },
+      {
+        "id": 391234,
+        "key": "lang:schinese",
+        "lang": "schinese",
+        "label": "简体中文 (Simplified Chinese)",
+        "source": "depot"
+      },
+      {
+        "id": 391235,
+        "key": "lang:polish",
+        "lang": "polish",
+        "label": "Polski (Polish)",
+        "source": "depot"
+      },
+      {
+        "id": 391236,
+        "key": "lang:dutch",
+        "lang": "dutch",
+        "label": "Nederlands (Dutch)",
+        "source": "depot"
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      },
+      {
+        "id": 391225,
+        "key": "lang:french",
+        "lang": "french",
+        "label": "Français (French)",
+        "source": "depot"
+      },
+      {
+        "id": 391226,
+        "key": "lang:italian",
+        "lang": "italian",
+        "label": "Italiano (Italian)",
+        "source": "depot"
+      },
+      {
+        "id": 391227,
+        "key": "lang:spanish",
+        "lang": "spanish",
+        "label": "Español (Spanish)",
+        "source": "depot"
+      },
+      {
+        "id": 391228,
+        "key": "lang:brazilian",
+        "lang": "brazilian",
+        "label": "Português (Brazilian)",
+        "source": "depot"
+      },
+      {
+        "id": 391229,
+        "key": "lang:russian",
+        "lang": "russian",
+        "label": "Русский (Russian)",
+        "source": "depot"
+      },
+      {
+        "id": 391230,
+        "key": "lang:japanese",
+        "lang": "japanese",
+        "label": "日本語 (Japanese)",
+        "source": "depot"
+      },
+      {
+        "id": 391231,
+        "key": "lang:koreana",
+        "lang": "koreana",
+        "label": "한국어 (Korean)",
+        "source": "depot"
+      },
+      {
+        "id": 391232,
+        "key": "lang:german",
+        "lang": "german",
+        "label": "Deutsch (German)",
+        "source": "depot"
+      },
+      {
+        "id": 391233,
+        "key": "lang:tchinese",
+        "lang": "tchinese",
+        "label": "繁體中文 (Traditional Chinese)",
+        "source": "depot"
+      },
+      {
+        "id": 391234,
+        "key": "lang:schinese",
+        "lang": "schinese",
+        "label": "简体中文 (Simplified Chinese)",
+        "source": "depot"
+      },
+      {
+        "id": 391235,
+        "key": "lang:polish",
+        "lang": "polish",
+        "label": "Polski (Polish)",
+        "source": "depot"
+      },
+      {
+        "id": 391236,
+        "key": "lang:dutch",
+        "lang": "dutch",
+        "label": "Nederlands (Dutch)",
+        "source": "depot"
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1795323696
+  },
+  {
     "id": "game-4032350",
     "appid": 4032350,
     "name": "EA SPORTS™ College Football 27",

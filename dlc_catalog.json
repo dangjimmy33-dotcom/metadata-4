@@ -1,7 +1,7 @@
 {
-  "updated_at": 1795167594,
-  "total_games": 21,
-  "total_dlcs": 191,
+  "updated_at": 1795323702,
+  "total_games": 22,
+  "total_dlcs": 211,
   "games": {
     "1038250": [
       "1363540",
@@ -161,6 +161,28 @@
       "540810",
       "598110",
       "3868650"
+    ],
+    "391220": [
+      "418680",
+      "418690",
+      "418700",
+      "418710",
+      "418720",
+      "418750",
+      "418760",
+      "418770",
+      "418780",
+      "418790",
+      "418800",
+      "418810",
+      "419110",
+      "437800",
+      "505540",
+      "526660",
+      "541750",
+      "418730",
+      "418740",
+      "419100"
     ],
     "4032350": [
       "4041510",
@@ -718,6 +740,134 @@
       "store_visible": false,
       "metadata_file": "377160/DLCs/404090.json"
     },
+    "418680": {
+      "appid": "418680",
+      "name": "Sparrowhawk Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/418680/header.jpg",
+      "parent": "391220",
+      "store_visible": false,
+      "metadata_file": "391220/DLCs/418680.json"
+    },
+    "418690": {
+      "appid": "418690",
+      "name": "Hope's Bastion Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/418690/header.jpg",
+      "parent": "391220",
+      "store_visible": false,
+      "metadata_file": "391220/DLCs/418690.json"
+    },
+    "418700": {
+      "appid": "418700",
+      "name": "Tactical Survivor Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/418700/header.jpg",
+      "parent": "391220",
+      "store_visible": false,
+      "metadata_file": "391220/DLCs/418700.json"
+    },
+    "418710": {
+      "appid": "418710",
+      "name": "Apex Predator Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/418710/header.jpg",
+      "parent": "391220",
+      "store_visible": false,
+      "metadata_file": "391220/DLCs/418710.json"
+    },
+    "418720": {
+      "appid": "418720",
+      "name": "Remnant Resistance Pack (Retired)",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/418720/header.jpg",
+      "parent": "391220",
+      "store_visible": false,
+      "metadata_file": "391220/DLCs/418720.json"
+    },
+    "418730": {
+      "appid": "418730",
+      "name": "AppID 418730",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/418730/header.jpg",
+      "parent": "391220",
+      "store_visible": false,
+      "metadata_file": ""
+    },
+    "418740": {
+      "appid": "418740",
+      "name": "AppID 418740",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/418740/header.jpg",
+      "parent": "391220",
+      "store_visible": false,
+      "metadata_file": ""
+    },
+    "418750": {
+      "appid": "418750",
+      "name": "Wilderness Survivor",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/418750/header.jpg",
+      "parent": "391220",
+      "store_visible": false,
+      "metadata_file": "391220/DLCs/418750.json"
+    },
+    "418760": {
+      "appid": "418760",
+      "name": "Siberian Ranger",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/418760/header.jpg",
+      "parent": "391220",
+      "store_visible": false,
+      "metadata_file": "391220/DLCs/418760.json"
+    },
+    "418770": {
+      "appid": "418770",
+      "name": "Ancient Vanguard",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/418770/header.jpg",
+      "parent": "391220",
+      "store_visible": false,
+      "metadata_file": "391220/DLCs/418770.json"
+    },
+    "418780": {
+      "appid": "418780",
+      "name": "Prophet's Legacy",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/418780/header.jpg",
+      "parent": "391220",
+      "store_visible": false,
+      "metadata_file": "391220/DLCs/418780.json"
+    },
+    "418790": {
+      "appid": "418790",
+      "name": "Endurance",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/418790/header.jpg",
+      "parent": "391220",
+      "store_visible": false,
+      "metadata_file": "391220/DLCs/418790.json"
+    },
+    "418800": {
+      "appid": "418800",
+      "name": "Baba Yaga",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/418800/header.jpg",
+      "parent": "391220",
+      "store_visible": false,
+      "metadata_file": "391220/DLCs/418800.json"
+    },
+    "418810": {
+      "appid": "418810",
+      "name": "Cold Darkness",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/418810/header.jpg",
+      "parent": "391220",
+      "store_visible": false,
+      "metadata_file": "391220/DLCs/418810.json"
+    },
+    "419100": {
+      "appid": "419100",
+      "name": "AppID 419100",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/419100/header.jpg",
+      "parent": "391220",
+      "store_visible": false,
+      "metadata_file": ""
+    },
+    "419110": {
+      "appid": "419110",
+      "name": "Remnant Resistance Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/419110/header.jpg",
+      "parent": "391220",
+      "store_visible": false,
+      "metadata_file": "391220/DLCs/419110.json"
+    },
     "435870": {
       "appid": "435870",
       "name": "Fallout 4 - Automatron",
@@ -741,6 +891,14 @@
       "parent": "377160",
       "store_visible": false,
       "metadata_file": "377160/DLCs/435881.json"
+    },
+    "437800": {
+      "appid": "437800",
+      "name": "Season Pass Card Packs",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/437800/header.jpg",
+      "parent": "391220",
+      "store_visible": false,
+      "metadata_file": "391220/DLCs/437800.json"
     },
     "480630": {
       "appid": "480630",
@@ -766,6 +924,22 @@
       "store_visible": false,
       "metadata_file": "377160/DLCs/490650.json"
     },
+    "505540": {
+      "appid": "505540",
+      "name": "Rise of the Tomb Raider 20 Year Celebration Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/505540/header.jpg",
+      "parent": "391220",
+      "store_visible": false,
+      "metadata_file": "391220/DLCs/505540.json"
+    },
+    "526660": {
+      "appid": "526660",
+      "name": "Rise of the Tomb Raider - Season Pass",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/526660/header.jpg",
+      "parent": "391220",
+      "store_visible": false,
+      "metadata_file": "391220/DLCs/526660.json"
+    },
     "540810": {
       "appid": "540810",
       "name": "Fallout 4 - High Resolution Texture Pack",
@@ -773,6 +947,14 @@
       "parent": "377160",
       "store_visible": false,
       "metadata_file": "377160/DLCs/540810.json"
+    },
+    "541750": {
+      "appid": "541750",
+      "name": "Valiant Explorer",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/541750/header.jpg",
+      "parent": "391220",
+      "store_visible": false,
+      "metadata_file": "391220/DLCs/541750.json"
     },
     "598110": {
       "appid": "598110",
