@@ -4627,6 +4627,73 @@
     "added_ts": 1794567764
   },
   {
+    "id": "game-5527800",
+    "appid": 5527800,
+    "name": "No Asteroids",
+    "developer": "Unruled Games",
+    "publisher": "Unruled Games",
+    "installdir": "No Asteroids",
+    "launch_exes": [
+      "No Asteroids.exe",
+      "No Asteroids.app"
+    ],
+    "launch_exe": "No Asteroids.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "26982903",
+    "has_metadata": true,
+    "depot_base": 5527801,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/5527800/29ca457efc35b4fdaa5d6586fe3de0156df55d03/library_capsule.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/5527800/d62c870790fcce767edd856ce3e7e6df2a9b1395/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "26982903",
+        "branch": "public No title",
+        "label": "public No title - Build 26982903 (11/28/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228989",
+          "5527801"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1795843993
+  },
+  {
     "id": "game-648350",
     "appid": 648350,
     "name": "Jurassic World Evolution",
